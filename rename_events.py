@@ -103,16 +103,3 @@ def relabel_events(session_id, pos_id):
     raw = raw.set_annotations(anno_from_events, verbose=1) 
 
     return raw
-
-    # Save file
-    #file_name = session_id+'_'+pos_id+'.vhdr'
-    #output_dir='pos_relabel'
-
-    #cur_dir = os.getcwd()
-    #session_dir = os.path.join(cur_dir, output_dir, session_id)
-
-    #if not os.path.exists(session_dir):
-    #    os.makedirs(session_dir)
-
-    #print("\n**** Saving file to: ", session_dir+'/'+file_name) 
-    #mne.export.export_raw(session_dir+'/'+file_name, raw, verbose=1)
