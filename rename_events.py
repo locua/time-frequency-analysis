@@ -35,9 +35,20 @@ event_dict_map = {
 }
 
 def relabel_events(session_id, pos_id):
+    """Relabel events with cueing data from posner task csv file.
+
+    Args:
+        session_id (string): Of the form 'm_01_02' (participant 1, session 2)
+        pos_id (string): Of the form 'pos2a' (session 2, posner task a)
+
+    Returns:
+        raw (mne.Raw): relabelled data file
+    """
     vhdr_file = session_id + '/'+session_id+'_'+pos_id+'.vhdr'
     print('Data file: ', vhdr_file)
     raw = mne.io.read_raw_brainvision(vhdr_file, preload=True, verbose=0)
+
+    #raw.set_eeg_reference(ref_channels='average', projection=True) # remove micro vault error?
 
     events, events_id = mne.events_from_annotations(raw)
 
@@ -47,8 +58,8 @@ def relabel_events(session_id, pos_id):
     # Specify the directory to search
     directory_path = session_id+'/'
     
+    # Perform the search for each target string
     csv_files = {}
-    # Perform the recursive search for each target string
     for target_string in target_strings:
         result = recursive_search(directory_path, target_string)
         if result is not None:
@@ -58,12 +69,12 @@ def relabel_events(session_id, pos_id):
     pos_task = pos_id.strip('pos')
     print("**********", pos_task)
 
-
     posner_csv_file = csv_files[pos_task] 
     #print(posner_csv) 
 
     posner_csv = pd.read_csv(posner_csv_file)
-    posner_csv = posner_csv[["block_name", "cue_dir", "stim_pos", "session", "valid_cue"]]
+    cols = ["block_name", "cue_dir", "stim_pos", "session", "valid_cue"]
+    posner_csv = posner_csv[cols]
     validity = posner_csv[posner_csv["block_name"]=="trials"]["valid_cue"].to_numpy()
     
     # get events
@@ -83,5 +94,25 @@ def relabel_events(session_id, pos_id):
             idx+=1
 
     s_freq = raw.info['sfreq']
-    anno_from_events=mne.annotations_from_events(events,sfreq=s_freq,orig_time=raw.info['meas_date'], event_desc=event_dict_map)
+
+    anno_from_events=mne.annotations_from_events(events,
+            sfreq=s_freq,
+            orig_time=raw.info['meas_date'], 
+            event_desc=event_dict_map)
+
     raw = raw.set_annotations(anno_from_events, verbose=1) 
+
+    return raw
+
+    # Save file
+    #file_name = session_id+'_'+pos_id+'.vhdr'
+    #output_dir='pos_relabel'
+
+    #cur_dir = os.getcwd()
+    #session_dir = os.path.join(cur_dir, output_dir, session_id)
+
+    #if not os.path.exists(session_dir):
+    #    os.makedirs(session_dir)
+
+    #print("\n**** Saving file to: ", session_dir+'/'+file_name) 
+    #mne.export.export_raw(session_dir+'/'+file_name, raw, verbose=1)
