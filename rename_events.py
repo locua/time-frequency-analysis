@@ -48,7 +48,7 @@ def relabel_events(session_id, pos_id):
     print('Data file: ', vhdr_file)
     raw = mne.io.read_raw_brainvision(vhdr_file, preload=True, verbose=0)
 
-    #raw.set_eeg_reference(ref_channels='average', projection=True) # remove micro vault error?
+    #raw.set_eeg_reference(ref_channels='average', projection=True) # remove micro vault warning?
 
     events, events_id = mne.events_from_annotations(raw)
 
@@ -95,10 +95,12 @@ def relabel_events(session_id, pos_id):
 
     s_freq = raw.info['sfreq']
 
-    anno_from_events=mne.annotations_from_events(events,
-            sfreq=s_freq,
-            orig_time=raw.info['meas_date'], 
-            event_desc=event_dict_map)
+    anno_from_events=mne.annotations_from_events(
+        events,
+        sfreq=s_freq,
+        orig_time=raw.info['meas_date'], 
+        event_desc=event_dict_map
+    )
 
     raw = raw.set_annotations(anno_from_events, verbose=1) 
 
