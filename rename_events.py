@@ -1,6 +1,7 @@
 import os
 import mne
 import pybv
+import numpy as np
 import pandas as pd
 
 def recursive_search(directory, target_string):
@@ -76,10 +77,17 @@ def relabel_events(session_id, pos_id):
     cols = ["block_name", "cue_dir", "stim_pos", "session", "valid_cue"]
     posner_csv = posner_csv[cols]
     validity = posner_csv[posner_csv["block_name"]=="trials"]["valid_cue"].to_numpy()
-    
     # get events
     events, event_id = mne.events_from_annotations(raw) # get events
     idx = 0 # stim even idx increment
+
+    print('len(events)', len(events))
+    print('len(validity)', len(validity))
+    print('# of stim events', np.count_nonzero(events[:, 2] == 50))
+
+    for i in range(len(events)):
+        print(events[i])
+        pass
     
     for i, e in enumerate(events):
         code=e[2]
