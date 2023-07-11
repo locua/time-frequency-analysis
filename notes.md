@@ -8,3 +8,7 @@
   - `m_06_02` has the same issue, 102 stim events (code 50) but 100 in the posner csv...
 - `m_04_01`, raw data for posner a and b looks very noisey 
 - `m_06_01`, strange ica000 screenshort on desktop
+
+## Missing data parts
+- `m_19_02`, posner 2a csv missing; subject 19 may have to be dropped from some analysis
+- `m_16_02`, posner 2a csv missing; subject 16 may have to be dropped from some analysis
