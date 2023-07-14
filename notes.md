@@ -12,3 +12,18 @@
 ## Missing data parts
 - `m_19_02`, posner 2a csv missing; subject 19 may have to be dropped from some analysis
 - `m_16_02`, posner 2a csv missing; subject 16 may have to be dropped from some analysis
+
+
+### new codes after relabelling
+| event           | START | END |
+| :-------------- | ----- | :-: |
+| start screen    | 10    | 11  |
+| end screen      | 20    | 21  |
+| continue screen | 30    | 31  |
+| trial           | 1     | 101 |
+| fc              | 40    | 41  |
+| valid stim      | 51    | 52  |
+| invalid stim    | 50    | 52  |
+| cue_l           | 60    | 61  |
+| cue_r           | 70    | 71  |
+| cue_c           | 80    | 81  |

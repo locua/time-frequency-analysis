@@ -81,6 +81,11 @@ def relabel_events(session_id, pos_id):
     events, event_id = mne.events_from_annotations(raw) # get events
     idx = 0 # stim even idx increment
 
+    if(session_id=='m_02_02' and pos_id=='pos2a'):
+        foo = events[2:17]
+        print(foo)
+        events = np.delete(events, slice(2, 17), axis=0)
+
     print('len(events)', len(events))
     print('len(validity)', len(validity))
     print('# of stim events', np.count_nonzero(events[:, 2] == 50))
@@ -89,6 +94,7 @@ def relabel_events(session_id, pos_id):
         print(events[i])
         pass
     
+    return 0
     for i, e in enumerate(events):
         code=e[2]
         # If stim
