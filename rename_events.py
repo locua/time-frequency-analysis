@@ -71,8 +71,6 @@ def relabel_events(session_id, pos_id):
     print("**********", pos_task)
 
     posner_csv_file = csv_files[pos_task] 
-    #print(posner_csv) 
-
     posner_csv = pd.read_csv(posner_csv_file)
     cols = ["block_name", "cue_dir", "stim_pos", "session", "valid_cue"]
     posner_csv = posner_csv[cols]
@@ -86,13 +84,19 @@ def relabel_events(session_id, pos_id):
         print(foo)
         events = np.delete(events, slice(2, 17), axis=0)
 
-    print('len(events)', len(events))
-    print('len(validity)', len(validity))
-    print('# of stim events', np.count_nonzero(events[:, 2] == 50))
+    if(session_id=='m_06_02' and pos_id=='pos2b'):
+        foo = events[1:12]
+        print('removing the following events:\n', foo)
+        events = np.delete(events, slice(1, 12), axis=0)
 
-    for i in range(len(events)):
-        print(events[i])
-    
+    # For DEBUGGING >>>>>>>>>>>>>>>
+    # print('len(events)', len(events))
+    # print('len(validity)', len(validity))
+    # print('# of stim events', np.count_nonzero(events[:, 2] == 50))
+    # for i in range(len(events)):
+        # print(events[i])
+    # return 0    
+
     for i, e in enumerate(events):
         code=e[2]
         # If stim
