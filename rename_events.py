@@ -36,7 +36,7 @@ event_dict_map = {
 }
 
 def relabel_events(session_id, pos_id):
-    """Relabel events with cueing data from posner task csv file.
+    """Relabel events with stim direction from posner task csv file.
 
     Args:
         session_id (string): Of the form 'm_01_02' (participant 1, session 2)
@@ -92,9 +92,7 @@ def relabel_events(session_id, pos_id):
 
     for i in range(len(events)):
         print(events[i])
-        pass
     
-    return 0
     for i, e in enumerate(events):
         code=e[2]
         # If stim
