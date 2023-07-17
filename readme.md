@@ -27,3 +27,22 @@
 | cue_l           | 60    | 61  |
 | cue_r           | 70    | 71  |
 | cue_c           | 80    | 81  |
+
+
+# Second ICA run through
+
+00 - done
+01 - done
+02 - done
+  - unusual ica000 to ica019 in session 1
+03 - done 
+04 - done
+  - session 1a very noisy 
+05 - done
+06 - done 
+07 - done
+08 - done
+  - session 2 particularly noisy, consider dropping
+09 - done
+10 - done
+
