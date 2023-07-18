@@ -45,4 +45,16 @@
   - session 2 particularly noisy, consider dropping
 09 - done
 10 - done
-
+11 - done
+12 - done
+13 - done
+14 - done
+15 - done
+16 - 2b done (2a csv missing)
+17 - done
+  - in session 1 channel C2 removed (v noisey)
+18 - done
+  - very noisy, consider removing
+19 - done
+  - 2a csv missing
+20 - done
