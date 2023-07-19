@@ -32,30 +32,30 @@
 
 # Second ICA run through
 
-00 - done
-01 - done
-02 - done
+- 00  done
+- 01  done
+- 02  done
   - unusual ica000 to ica019 in session 1
-03 - done 
-04 - done
+- 03 - done 
+- 04 - done
   - session 1a very noisy 
-05 - done
-06 - done 
-07 - done
-08 - done
+- 05 - done
+- 06 - done 
+- 07 - done
+- 08 - done
   - session 2 particularly noisy, consider dropping
-09 - done
-10 - done
-11 - done
-12 - done
-13 - done
-14 - done
-15 - done
-16 - 2b done (2a csv missing)
-17 - done
+- 09 - done
+- 10 - done
+- 11 - done
+- 12 - done
+- 13 - done
+- 14 - done
+- 15 - done
+- 16 - 2b done (2a csv missing)
+- 17 - done
   - in session 1 channel C2 removed (v noisey)
-18 - done
+- 18 - done
   - very noisy, consider removing
-19 - done
+- 19 - done
   - 2a csv missing
-20 - done
+- 20 - done
