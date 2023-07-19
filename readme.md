@@ -10,6 +10,7 @@
 - `m_06_01`, strange ica000 screenshort on desktop
 
 ## Missing data parts
+
 - `m_19_02`, posner 2a csv missing; subject 19 may have to be dropped from some analysis
 - `m_16_02`, posner 2a csv missing; subject 16 may have to be dropped from some analysis
 
