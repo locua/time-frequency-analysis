@@ -69,7 +69,8 @@ print('* looping through and getting alpha power')
 
 def get_psd_power(m_raw):
     spectrum = m_raw.compute_psd('welch', fmin=8, fmax=12)
-    return spectrum.to_data_frame()
+    alpha =  spectrum.to_data_frame().drop(columns=['freq']).melt().value.mean()
+    return alpha
 
 
 def get_psd_power_normed(ep):
@@ -140,13 +141,14 @@ def get_avg_power(h5file, subject, session):
             # Create the mne raw object with eeg data
             m_raw = mne.io.RawArray(eeg_data.T, m_info, first_samp=0, copy='auto', verbose=None)
 
-            power = get_psd_power_normed(m_raw)
+            power = get_psd_power(m_raw)
             roi_name = key
             output['baseline type'].append(baseline_name)
             output['ROI'].append(roi_name)
             output['participant'].append(subject)
             output['power'].append(power)
             output['session'].append(session)
+            print(power)
 
     return pd.DataFrame(output)
 
@@ -181,7 +183,7 @@ baselines = pd.merge(baseline1, merged_powers, on=['participant', 'session'])
 
 baselines = baselines.drop(columns=['filename'])
 
-baselines.to_csv('baseline_powers.csv', index=False)
+baselines.to_csv('baseline_powers_not_normed.csv', index=False)
 
 
 
