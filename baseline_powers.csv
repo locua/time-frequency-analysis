@@ -1,0 +1,673 @@
+participant,session,code,time,baseline,baseline type,ROI,power
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_eo,left occipital,-1.942890293094024e-16
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_eo,right occipital,5.551115123125783e-17
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_eo,left parietal-occipital,-2.220446049250313e-16
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_eo,right parietal-occipital,2.636779683484747e-16
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_eo,left parietal,-2.7755575615628914e-17
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_eo,right parietal,2.7755575615628914e-16
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_eo,"right O, PO and CP",7.771561172376095e-17
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_eo,"left O, PO and CP",-1.1102230246251566e-17
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_ec,left occipital,1.1102230246251565e-16
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_ec,right occipital,2.220446049250313e-16
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_ec,left parietal-occipital,1.1102230246251565e-16
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_ec,right parietal-occipital,1.1102230246251565e-16
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_ec,left parietal,-5.551115123125783e-17
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_ec,right parietal,0.0
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_ec,"right O, PO and CP",-8.881784197001253e-17
+0.0,1.0,m_00_01,2023-07-23 14:29:35,1,baseline_ec,"left O, PO and CP",8.881784197001253e-17
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_eo,left occipital,4.440892098500626e-16
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_eo,right occipital,1.6653345369377348e-16
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_eo,left parietal-occipital,-5.551115123125783e-17
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_eo,right parietal-occipital,0.0
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_eo,left parietal,1.6653345369377348e-16
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_eo,right parietal,0.0
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_eo,"right O, PO and CP",-8.881784197001253e-17
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_eo,"left O, PO and CP",1.554312234475219e-16
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_ec,left occipital,5.551115123125783e-17
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_ec,right occipital,-5.551115123125783e-17
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_ec,left parietal-occipital,1.1102230246251565e-16
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_ec,right parietal-occipital,2.7755575615628914e-17
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_ec,left parietal,-1.1102230246251565e-16
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_ec,right parietal,1.1102230246251565e-16
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_ec,"right O, PO and CP",-1.3322676295501878e-16
+0.0,2.0,m_00_02,2023-07-23 13:51:33,1,baseline_ec,"left O, PO and CP",0.0
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_eo,left occipital,-5.551115123125783e-17
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_eo,right occipital,2.220446049250313e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_eo,left parietal-occipital,7.216449660063518e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_eo,right parietal-occipital,2.220446049250313e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_eo,left parietal,3.608224830031759e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_eo,right parietal,2.498001805406602e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_eo,"right O, PO and CP",2.6645352591003756e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_eo,"left O, PO and CP",3.552713678800501e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_ec,left occipital,0.0
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_ec,right occipital,5.551115123125783e-17
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_ec,left parietal-occipital,5.551115123125783e-17
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_ec,right parietal-occipital,-1.6653345369377348e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_ec,left parietal,1.1102230246251565e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_ec,right parietal,-5.551115123125783e-17
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_ec,"right O, PO and CP",-1.3322676295501878e-16
+1.0,2.0,m_01_02,2023-07-23 10:53:03,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_eo,left occipital,1.3877787807814457e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_eo,right occipital,3.0531133177191805e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_eo,left parietal-occipital,-2.636779683484747e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_eo,right parietal-occipital,8.326672684688674e-17
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_eo,left parietal,3.400058012914542e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_eo,right parietal,3.469446951953614e-17
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_eo,"right O, PO and CP",1.27675647831893e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_eo,"left O, PO and CP",-9.71445146547012e-17
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_ec,left occipital,-1.1102230246251565e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_ec,right occipital,-2.220446049250313e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_ec,left parietal-occipital,2.498001805406602e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_ec,right parietal-occipital,-1.6653345369377348e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_ec,left parietal,-1.6653345369377348e-16
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_ec,right parietal,8.326672684688674e-17
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_ec,"right O, PO and CP",0.0
+1.0,1.0,m_01_01,2023-07-23 14:17:22,1,baseline_ec,"left O, PO and CP",8.881784197001253e-17
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_eo,left occipital,5.551115123125783e-17
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_eo,right occipital,-1.1102230246251565e-16
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_eo,left parietal-occipital,-1.1102230246251565e-16
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_eo,right parietal-occipital,0.0
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_eo,left parietal,0.0
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_eo,right parietal,-1.6653345369377348e-16
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_eo,"right O, PO and CP",-1.3322676295501878e-16
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_eo,"left O, PO and CP",-2.220446049250313e-16
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_ec,left occipital,-2.7755575615628914e-17
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_ec,right occipital,-5.551115123125783e-17
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_ec,left parietal-occipital,-5.551115123125783e-17
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_ec,right parietal-occipital,1.3877787807814457e-16
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_ec,left parietal,-5.551115123125783e-17
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_ec,right parietal,1.6653345369377348e-16
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_ec,"right O, PO and CP",0.0
+2.0,2.0,m_02_02,2023-07-23 16:53:47,1,baseline_ec,"left O, PO and CP",1.1102230246251565e-16
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_eo,left occipital,-1.6653345369377348e-16
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_eo,right occipital,2.7755575615628914e-17
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_eo,left parietal-occipital,-5.551115123125783e-17
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_eo,right parietal-occipital,8.326672684688674e-17
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_eo,left parietal,1.1102230246251565e-16
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_eo,right parietal,-1.6653345369377348e-16
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_eo,"right O, PO and CP",0.0
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_eo,"left O, PO and CP",8.881784197001253e-17
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_ec,left occipital,5.551115123125783e-17
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_ec,right occipital,-5.551115123125783e-17
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_ec,left parietal-occipital,-1.6653345369377348e-16
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_ec,left parietal,-1.3877787807814457e-16
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_ec,right parietal,0.0
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_ec,"right O, PO and CP",1.2212453270876723e-16
+2.0,1.0,m_02_01,2023-07-23 15:37:02,1,baseline_ec,"left O, PO and CP",1.554312234475219e-16
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_eo,left occipital,0.0
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_eo,right occipital,-1.1102230246251565e-16
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_eo,left parietal-occipital,1.1102230246251565e-16
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_eo,right parietal-occipital,-5.551115123125783e-17
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_eo,left parietal,1.6653345369377348e-16
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_eo,right parietal,-1.1102230246251565e-16
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_eo,"right O, PO and CP",1.3322676295501878e-16
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_eo,"left O, PO and CP",-4.4408920985006264e-17
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_ec,left occipital,-8.326672684688674e-17
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_ec,right occipital,8.326672684688674e-17
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_ec,left parietal-occipital,-8.326672684688674e-17
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_ec,right parietal-occipital,-5.551115123125783e-17
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_ec,left parietal,0.0
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_ec,right parietal,-2.7755575615628914e-17
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_ec,"right O, PO and CP",2.2204460492503132e-17
+3.0,2.0,m_03_02,2023-07-23 11:04:44,1,baseline_ec,"left O, PO and CP",6.661338147750939e-17
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_eo,left occipital,-1.1102230246251565e-16
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_eo,right occipital,-1.6653345369377348e-16
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_eo,left parietal-occipital,0.0
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_eo,right parietal-occipital,0.0
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_eo,left parietal,1.1102230246251565e-16
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_eo,right parietal,1.1102230246251565e-16
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_eo,"right O, PO and CP",0.0
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_eo,"left O, PO and CP",8.881784197001253e-17
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_ec,left occipital,-5.551115123125783e-17
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_ec,right occipital,-1.1102230246251565e-16
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_ec,left parietal-occipital,-8.326672684688674e-17
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_ec,left parietal,2.7755575615628914e-17
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_ec,right parietal,-5.551115123125783e-17
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_ec,"right O, PO and CP",-1.3322676295501878e-16
+3.0,1.0,m_03_01,2023-07-23 13:56:06,1,baseline_ec,"left O, PO and CP",8.881784197001253e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_eo,left occipital,-2.7755575615628914e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_eo,right occipital,5.551115123125783e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_eo,left parietal-occipital,-2.7755575615628914e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_eo,right parietal-occipital,-5.551115123125783e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_eo,left parietal,5.551115123125783e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_eo,right parietal,5.551115123125783e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_eo,"right O, PO and CP",1.2212453270876723e-16
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_eo,"left O, PO and CP",-3.108624468950438e-16
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_ec,left occipital,1.6653345369377348e-16
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_ec,right occipital,0.0
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_ec,left parietal-occipital,1.3877787807814457e-16
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_ec,right parietal-occipital,8.326672684688674e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_ec,left parietal,0.0
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_ec,right parietal,5.551115123125783e-17
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_ec,"right O, PO and CP",-1.1102230246251565e-16
+4.0,1.0,m_04_01,2023-07-23 16:46:36,1,baseline_ec,"left O, PO and CP",2.2204460492503132e-17
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_eo,left occipital,-2.7755575615628914e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_eo,right occipital,-3.0531133177191805e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_eo,left parietal-occipital,-2.7755575615628914e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_eo,right parietal-occipital,-8.326672684688674e-17
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_eo,left parietal,-1.1102230246251565e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_eo,right parietal,-5.551115123125783e-17
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_eo,"right O, PO and CP",3.108624468950438e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_eo,"left O, PO and CP",-3.552713678800501e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_ec,left occipital,1.1102230246251565e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_ec,right occipital,-1.6653345369377348e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_ec,left parietal-occipital,-1.1102230246251565e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_ec,right parietal-occipital,-1.1102230246251565e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_ec,left parietal,-5.551115123125783e-17
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_ec,right parietal,-5.551115123125783e-17
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_ec,"right O, PO and CP",-1.7763568394002506e-16
+4.0,2.0,m_04_02,2023-07-23 16:47:22,1,baseline_ec,"left O, PO and CP",-4.4408920985006264e-17
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_eo,left occipital,-1.0547118733938987e-15
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_eo,right occipital,-5.273559366969494e-16
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_eo,left parietal-occipital,1.6653345369377348e-16
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_eo,right parietal-occipital,1.3877787807814457e-16
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_eo,left parietal,-8.326672684688674e-17
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_eo,right parietal,1.1102230246251565e-16
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_eo,"right O, PO and CP",-9.992007221626409e-17
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_eo,"left O, PO and CP",-1.3322676295501878e-16
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_ec,left occipital,0.0
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_ec,right occipital,-1.5265566588595902e-16
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_ec,left parietal-occipital,-6.938893903907228e-17
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_ec,right parietal-occipital,1.249000902703301e-16
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_ec,left parietal,-1.3877787807814457e-16
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_ec,right parietal,-8.326672684688674e-17
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_ec,"right O, PO and CP",2.2204460492503132e-17
+5.0,2.0,m_05_02,2023-07-23 15:05:50,1,baseline_ec,"left O, PO and CP",9.992007221626409e-17
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_eo,left occipital,3.7470027081099033e-16
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_eo,right occipital,7.771561172376096e-16
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_eo,left parietal-occipital,-4.163336342344337e-16
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_eo,right parietal-occipital,-2.220446049250313e-16
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_eo,left parietal,-5.689893001203927e-16
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_eo,right parietal,2.220446049250313e-16
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_eo,"right O, PO and CP",-1.7763568394002506e-16
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_eo,"left O, PO and CP",-8.881784197001253e-17
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_ec,left occipital,-1.3877787807814457e-17
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_ec,right occipital,5.551115123125783e-17
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_ec,left parietal-occipital,2.7755575615628914e-17
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_ec,right parietal-occipital,-2.7755575615628914e-17
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_ec,left parietal,0.0
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_ec,right parietal,-8.326672684688674e-17
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_ec,"right O, PO and CP",-1.3322676295501878e-16
+5.0,1.0,m_05_01,2023-07-23 15:31:52,1,baseline_ec,"left O, PO and CP",3.3306690738754695e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_eo,left occipital,2.498001805406602e-16
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_eo,right occipital,4.579669976578771e-16
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_eo,left parietal-occipital,-2.7755575615628914e-16
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_eo,right parietal-occipital,5.551115123125783e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_eo,left parietal,2.7755575615628914e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_eo,right parietal,-8.326672684688674e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_eo,"right O, PO and CP",3.219646771412954e-16
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_eo,"left O, PO and CP",-6.661338147750939e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_ec,left occipital,1.1102230246251565e-16
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_ec,right occipital,-8.326672684688674e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_ec,left parietal-occipital,-5.551115123125783e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_ec,right parietal-occipital,2.7755575615628914e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_ec,left parietal,5.551115123125783e-17
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_ec,right parietal,-1.1102230246251565e-16
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_ec,"right O, PO and CP",0.0
+6.0,1.0,m_06_01,2023-07-23 11:22:39,1,baseline_ec,"left O, PO and CP",4.4408920985006264e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_eo,left occipital,-2.7755575615628914e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_eo,right occipital,1.942890293094024e-16
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_eo,left parietal-occipital,-6.938893903907228e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_eo,right parietal-occipital,0.0
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_eo,left parietal,-1.3877787807814457e-16
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_eo,right parietal,-8.326672684688674e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_eo,"right O, PO and CP",8.881784197001253e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_eo,"left O, PO and CP",-1.7763568394002506e-16
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_ec,left occipital,-8.326672684688674e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_ec,right occipital,1.3877787807814457e-16
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_ec,left parietal-occipital,-5.551115123125783e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_ec,left parietal,-1.942890293094024e-16
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_ec,right parietal,-2.7755575615628914e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_ec,"right O, PO and CP",-5.551115123125783e-17
+6.0,2.0,m_06_02,2023-07-23 10:51:15,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_eo,left occipital,1.1102230246251565e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_eo,right occipital,-3.3306690738754696e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_eo,left parietal-occipital,-2.220446049250313e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_eo,right parietal-occipital,-2.498001805406602e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_eo,left parietal,3.608224830031759e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_eo,right parietal,-6.938893903907228e-17
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_eo,"right O, PO and CP",3.774758283725532e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_eo,"left O, PO and CP",-1.3322676295501878e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_ec,left occipital,3.3306690738754696e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_ec,right occipital,1.1102230246251565e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_ec,left parietal-occipital,-5.551115123125783e-17
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_ec,right parietal-occipital,-1.1102230246251565e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_ec,left parietal,5.551115123125783e-17
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_ec,right parietal,-1.1102230246251565e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_ec,"right O, PO and CP",-1.3322676295501878e-16
+7.0,2.0,m_07_02,2023-07-23 14:51:00,1,baseline_ec,"left O, PO and CP",8.881784197001253e-17
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_eo,left occipital,0.0
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_eo,right occipital,-3.3306690738754696e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_eo,left parietal-occipital,-1.1102230246251565e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_eo,right parietal-occipital,2.220446049250313e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_eo,left parietal,1.942890293094024e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_eo,right parietal,-3.469446951953614e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_eo,"right O, PO and CP",2.220446049250313e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_eo,"left O, PO and CP",2.220446049250313e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_ec,left occipital,0.0
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_ec,right occipital,0.0
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_ec,left parietal-occipital,-1.6653345369377348e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_ec,left parietal,-5.551115123125783e-17
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_ec,right parietal,-1.6653345369377348e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_ec,"right O, PO and CP",-1.7763568394002506e-16
+7.0,1.0,m_07_01,2023-07-23 14:38:45,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_eo,left occipital,-3.885780586188048e-16
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_eo,right occipital,-4.996003610813204e-16
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_eo,left parietal-occipital,3.885780586188048e-16
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_eo,right parietal-occipital,-2.7755575615628914e-17
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_eo,left parietal,-6.938893903907228e-17
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_eo,right parietal,-1.1102230246251565e-16
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_eo,"right O, PO and CP",1.2212453270876723e-16
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_eo,"left O, PO and CP",-1.1102230246251565e-16
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_ec,left occipital,0.0
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_ec,right occipital,-5.551115123125783e-17
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_ec,left parietal-occipital,5.551115123125783e-17
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_ec,left parietal,0.0
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_ec,right parietal,0.0
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_ec,"right O, PO and CP",4.4408920985006264e-17
+8.0,1.0,m_08_01,2023-07-23 15:05:50,1,baseline_ec,"left O, PO and CP",6.661338147750939e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_eo,left occipital,0.0
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_eo,right occipital,2.220446049250313e-16
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_eo,left parietal-occipital,2.498001805406602e-16
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_eo,right parietal-occipital,2.498001805406602e-16
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_eo,left parietal,1.249000902703301e-16
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_eo,right parietal,6.245004513516506e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_eo,"right O, PO and CP",5.551115123125783e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_eo,"left O, PO and CP",-2.2204460492503132e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_ec,left occipital,-5.551115123125783e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_ec,right occipital,-5.551115123125783e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_ec,left parietal-occipital,5.551115123125783e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_ec,right parietal-occipital,-1.1102230246251565e-16
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_ec,left parietal,1.6653345369377348e-16
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_ec,right parietal,5.551115123125783e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_ec,"right O, PO and CP",-8.881784197001253e-17
+8.0,2.0,m_08_02,2023-07-23 18:01:20,1,baseline_ec,"left O, PO and CP",-2.2204460492503132e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_eo,left occipital,0.0
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_eo,right occipital,-8.326672684688674e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_eo,left parietal-occipital,-2.220446049250313e-16
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_eo,right parietal-occipital,1.5265566588595902e-16
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_eo,left parietal,4.163336342344337e-16
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_eo,right parietal,8.326672684688674e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_eo,"right O, PO and CP",-4.4408920985006264e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_eo,"left O, PO and CP",-4.4408920985006264e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_ec,left occipital,-8.326672684688674e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_ec,right occipital,8.326672684688674e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_ec,left parietal-occipital,-5.551115123125783e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_ec,right parietal-occipital,-5.551115123125783e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_ec,left parietal,-5.551115123125783e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_ec,right parietal,-1.3877787807814457e-16
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_ec,"right O, PO and CP",-2.2204460492503132e-17
+9.0,1.0,m_09_01,2023-07-23 19:03:06,1,baseline_ec,"left O, PO and CP",4.4408920985006264e-17
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_eo,left occipital,3.608224830031759e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_eo,right occipital,6.800116025829084e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_eo,left parietal-occipital,8.326672684688674e-17
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_eo,right parietal-occipital,3.3306690738754696e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_eo,left parietal,-2.636779683484747e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_eo,right parietal,5.551115123125783e-17
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_eo,"right O, PO and CP",-1.887379141862766e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_eo,"left O, PO and CP",1.6653345369377348e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_ec,left occipital,8.326672684688674e-17
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_ec,right occipital,-5.551115123125783e-17
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_ec,left parietal-occipital,-1.6653345369377348e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_ec,right parietal-occipital,2.7755575615628914e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_ec,left parietal,-1.1102230246251565e-16
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_ec,right parietal,5.551115123125783e-17
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_ec,"right O, PO and CP",-4.4408920985006264e-17
+9.0,2.0,m_09_02,2023-07-23 18:17:16,1,baseline_ec,"left O, PO and CP",-1.3322676295501878e-16
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_eo,left occipital,-1.1102230246251565e-16
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_eo,right occipital,-1.6653345369377348e-16
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_eo,left parietal-occipital,-1.6653345369377348e-16
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_eo,right parietal-occipital,0.0
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_eo,left parietal,-5.551115123125783e-17
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_eo,right parietal,-8.326672684688674e-17
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_eo,"right O, PO and CP",4.4408920985006264e-17
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_eo,"left O, PO and CP",1.3322676295501878e-16
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_ec,left occipital,0.0
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_ec,right occipital,8.326672684688674e-17
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_ec,left parietal-occipital,-1.1102230246251565e-16
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_ec,right parietal-occipital,-1.3877787807814457e-16
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_ec,left parietal,-8.326672684688674e-17
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_ec,right parietal,-2.7755575615628914e-17
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_ec,"right O, PO and CP",-1.1102230246251565e-16
+10.0,1.0,m_10_01,2023-07-23 12:03:17,1,baseline_ec,"left O, PO and CP",-1.3322676295501878e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_eo,left occipital,-1.6653345369377348e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_eo,right occipital,4.996003610813204e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_eo,left parietal-occipital,5.551115123125783e-17
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_eo,right parietal-occipital,-2.220446049250313e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_eo,left parietal,2.220446049250313e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_eo,right parietal,1.6653345369377348e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_eo,"right O, PO and CP",-1.3322676295501878e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_eo,"left O, PO and CP",2.2204460492503132e-17
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_ec,left occipital,2.220446049250313e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_ec,right occipital,-5.551115123125783e-17
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_ec,left parietal-occipital,-1.6653345369377348e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_ec,right parietal-occipital,-1.1102230246251565e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_ec,left parietal,5.551115123125783e-17
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_ec,right parietal,1.6653345369377348e-16
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_ec,"right O, PO and CP",0.0
+10.0,2.0,m_10_02,2023-07-23 14:58:38,1,baseline_ec,"left O, PO and CP",0.0
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_eo,left occipital,-4.440892098500626e-16
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_eo,right occipital,2.220446049250313e-16
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_eo,left parietal-occipital,-6.938893903907228e-17
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_eo,right parietal-occipital,1.3877787807814457e-16
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_eo,left parietal,-1.3877787807814457e-17
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_eo,right parietal,1.5265566588595902e-16
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_eo,"right O, PO and CP",1.1102230246251565e-16
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_eo,"left O, PO and CP",-1.3322676295501878e-16
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_ec,left occipital,0.0
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_ec,right occipital,0.0
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_ec,left parietal-occipital,0.0
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_ec,right parietal-occipital,-5.551115123125783e-17
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_ec,left parietal,0.0
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_ec,right parietal,5.551115123125783e-17
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_ec,"right O, PO and CP",-4.4408920985006264e-17
+11.0,2.0,m_11_02,2023-07-23 14:58:28,1,baseline_ec,"left O, PO and CP",1.3322676295501878e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_eo,left occipital,-5.273559366969494e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_eo,right occipital,6.38378239159465e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_eo,left parietal-occipital,2.5673907444456745e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_eo,right parietal-occipital,-1.942890293094024e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_eo,left parietal,-3.469446951953614e-17
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_eo,right parietal,-1.6653345369377348e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_eo,"right O, PO and CP",4.4408920985006264e-17
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_eo,"left O, PO and CP",8.326672684688674e-17
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_ec,left occipital,-1.6653345369377348e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_ec,right occipital,-5.551115123125783e-17
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_ec,left parietal-occipital,-5.551115123125783e-17
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_ec,right parietal-occipital,1.1102230246251565e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_ec,left parietal,0.0
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_ec,right parietal,1.1102230246251565e-16
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_ec,"right O, PO and CP",8.881784197001253e-17
+11.0,1.0,m_11_01,2023-07-23 16:03:20,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_eo,left occipital,4.440892098500626e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_eo,right occipital,2.220446049250313e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_eo,left parietal-occipital,1.3877787807814457e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_eo,right parietal-occipital,3.608224830031759e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_eo,left parietal,1.1102230246251565e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_eo,right parietal,1.942890293094024e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_eo,"right O, PO and CP",-4.2188474935755947e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_eo,"left O, PO and CP",-1.7763568394002506e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_ec,left occipital,1.249000902703301e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_ec,right occipital,3.400058012914542e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_ec,left parietal-occipital,-5.551115123125783e-17
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_ec,left parietal,1.249000902703301e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_ec,right parietal,-9.020562075079397e-17
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_ec,"right O, PO and CP",1.887379141862766e-16
+12.0,2.0,m_12_02,2023-07-23 11:00:06,1,baseline_ec,"left O, PO and CP",-1.7763568394002506e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_eo,left occipital,1.1102230246251565e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_eo,right occipital,0.0
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_eo,left parietal-occipital,3.3306690738754696e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_eo,right parietal-occipital,2.914335439641036e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_eo,left parietal,2.220446049250313e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_eo,right parietal,-1.6653345369377348e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_eo,"right O, PO and CP",8.881784197001253e-17
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_eo,"left O, PO and CP",-2.4424906541753446e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_ec,left occipital,-2.7755575615628914e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_ec,right occipital,3.885780586188048e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_ec,left parietal-occipital,5.551115123125783e-17
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_ec,left parietal,1.3877787807814457e-16
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_ec,right parietal,6.938893903907228e-17
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_ec,"right O, PO and CP",-4.4408920985006264e-17
+12.0,1.0,m_12_01,2023-07-23 11:48:59,1,baseline_ec,"left O, PO and CP",-1.554312234475219e-16
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_eo,left occipital,-5.551115123125783e-17
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_eo,right occipital,0.0
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_eo,left parietal-occipital,0.0
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_eo,right parietal-occipital,5.551115123125783e-17
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_eo,left parietal,-5.551115123125783e-17
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_eo,right parietal,0.0
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_eo,"right O, PO and CP",0.0
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_eo,"left O, PO and CP",0.0
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_ec,left occipital,5.551115123125783e-17
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_ec,right occipital,1.6653345369377348e-16
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_ec,left parietal-occipital,0.0
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_ec,right parietal-occipital,-2.7755575615628914e-17
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_ec,left parietal,-5.551115123125783e-17
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_ec,right parietal,-5.551115123125783e-17
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_ec,"right O, PO and CP",2.2204460492503132e-17
+13.0,1.0,m_13_01,2023-07-23 11:13:46,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_eo,left occipital,1.1102230246251565e-16
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_eo,right occipital,-5.551115123125783e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_eo,left parietal-occipital,5.551115123125783e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_eo,right parietal-occipital,0.0
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_eo,left parietal,1.1102230246251565e-16
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_eo,right parietal,5.551115123125783e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_eo,"right O, PO and CP",0.0
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_eo,"left O, PO and CP",1.7763568394002506e-16
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_ec,left occipital,-5.551115123125783e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_ec,right occipital,8.326672684688674e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_ec,left parietal-occipital,-1.249000902703301e-16
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_ec,right parietal-occipital,4.163336342344337e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_ec,left parietal,5.551115123125783e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_ec,right parietal,-4.163336342344337e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_ec,"right O, PO and CP",-4.4408920985006264e-17
+13.0,2.0,m_13_02,2023-07-23 17:40:01,1,baseline_ec,"left O, PO and CP",0.0
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_eo,left occipital,0.0
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_eo,right occipital,0.0
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_eo,left parietal-occipital,-1.6653345369377348e-16
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_eo,right parietal-occipital,2.220446049250313e-16
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_eo,left parietal,0.0
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_eo,right parietal,-1.6653345369377348e-16
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_eo,"right O, PO and CP",1.7763568394002506e-16
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_eo,"left O, PO and CP",-8.881784197001253e-17
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_ec,left occipital,-1.1102230246251565e-16
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_ec,right occipital,-3.885780586188048e-16
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_ec,left parietal-occipital,1.1102230246251565e-16
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_ec,right parietal-occipital,-5.551115123125783e-17
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_ec,left parietal,5.551115123125783e-17
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_ec,right parietal,0.0
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_ec,"right O, PO and CP",0.0
+14.0,1.0,m_14_01,2023-07-23 15:36:20,1,baseline_ec,"left O, PO and CP",-4.4408920985006264e-17
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_eo,left occipital,1.3877787807814457e-16
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_eo,right occipital,5.551115123125783e-17
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_eo,left parietal-occipital,-5.551115123125783e-17
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_eo,right parietal-occipital,-3.3306690738754696e-16
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_eo,left parietal,-2.220446049250313e-16
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_eo,right parietal,-5.551115123125783e-17
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_eo,"right O, PO and CP",1.3322676295501878e-16
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_eo,"left O, PO and CP",-4.4408920985006264e-17
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_ec,left occipital,-1.1102230246251565e-16
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_ec,right occipital,0.0
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_ec,left parietal-occipital,-1.1102230246251565e-16
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_ec,right parietal-occipital,0.0
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_ec,left parietal,0.0
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_ec,right parietal,-5.551115123125783e-17
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_ec,"right O, PO and CP",-1.7763568394002506e-16
+14.0,2.0,m_14_02,2023-07-23 15:29:50,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_eo,left occipital,-9.43689570931383e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_eo,right occipital,-3.3306690738754696e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_eo,left parietal-occipital,-1.8041124150158794e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_eo,right parietal-occipital,1.1102230246251565e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_eo,left parietal,2.220446049250313e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_eo,right parietal,-2.220446049250313e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_eo,"right O, PO and CP",-2.4424906541753446e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_eo,"left O, PO and CP",1.2212453270876723e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_ec,left occipital,0.0
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_ec,right occipital,0.0
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_ec,left parietal-occipital,1.1102230246251565e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_ec,right parietal-occipital,0.0
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_ec,left parietal,-5.551115123125783e-17
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_ec,right parietal,1.1102230246251565e-16
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_ec,"right O, PO and CP",-8.881784197001253e-17
+15.0,1.0,m_15_01,2023-07-23 18:30:39,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_eo,left occipital,-5.551115123125783e-17
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_eo,right occipital,-5.551115123125783e-17
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_eo,left parietal-occipital,1.6653345369377348e-16
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_eo,right parietal-occipital,5.551115123125783e-17
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_eo,left parietal,5.551115123125783e-17
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_eo,right parietal,-1.942890293094024e-16
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_eo,"right O, PO and CP",2.6645352591003756e-16
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_eo,"left O, PO and CP",-1.7763568394002506e-16
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_ec,left occipital,-5.551115123125783e-17
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_ec,right occipital,1.6653345369377348e-16
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_ec,left parietal-occipital,1.1102230246251565e-16
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_ec,left parietal,0.0
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_ec,right parietal,-2.220446049250313e-16
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_ec,"right O, PO and CP",-1.3322676295501878e-16
+15.0,2.0,m_15_02,2023-07-23 17:06:37,1,baseline_ec,"left O, PO and CP",-4.4408920985006264e-17
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_eo,left occipital,-1.6653345369377348e-16
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_eo,right occipital,8.326672684688674e-17
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_eo,left parietal-occipital,-2.7755575615628914e-17
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_eo,right parietal-occipital,-2.220446049250313e-16
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_eo,left parietal,2.7755575615628914e-17
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_eo,right parietal,0.0
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_eo,"right O, PO and CP",-6.661338147750939e-17
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_eo,"left O, PO and CP",1.3322676295501878e-16
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_ec,left occipital,1.1102230246251565e-16
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_ec,right occipital,-1.1102230246251565e-16
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_ec,left parietal-occipital,-5.551115123125783e-17
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_ec,right parietal-occipital,0.0
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_ec,left parietal,1.1102230246251565e-16
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_ec,right parietal,1.1102230246251565e-16
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_ec,"right O, PO and CP",1.7763568394002506e-16
+16.0,1.0,m_16_01,2023-07-23 11:27:52,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_eo,left occipital,-4.0245584642661925e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_eo,right occipital,-5.551115123125783e-17
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_eo,left parietal-occipital,-1.1102230246251565e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_eo,right parietal-occipital,0.0
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_eo,left parietal,-5.551115123125783e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_eo,right parietal,1.6653345369377348e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_eo,"right O, PO and CP",-3.552713678800501e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_eo,"left O, PO and CP",3.552713678800501e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_ec,left occipital,1.1102230246251565e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_ec,right occipital,0.0
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_ec,left parietal-occipital,5.551115123125783e-17
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_ec,right parietal-occipital,1.1102230246251565e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_ec,left parietal,2.498001805406602e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_ec,right parietal,-1.3877787807814457e-16
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_ec,"right O, PO and CP",8.881784197001253e-17
+16.0,2.0,m_16_02,2023-07-23 11:11:17,1,baseline_ec,"left O, PO and CP",-1.3322676295501878e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_eo,left occipital,-2.7755575615628914e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_eo,right occipital,1.6653345369377348e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_eo,left parietal-occipital,1.6653345369377348e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_eo,right parietal-occipital,1.1102230246251565e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_eo,left parietal,2.914335439641036e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_eo,right parietal,1.1102230246251565e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_eo,"right O, PO and CP",-1.554312234475219e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_eo,"left O, PO and CP",-4.773959005888173e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_ec,left occipital,-9.71445146547012e-17
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_ec,right occipital,-2.7755575615628914e-17
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_ec,left parietal-occipital,1.3877787807814457e-17
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_ec,right parietal-occipital,-1.3877787807814457e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_ec,left parietal,-6.938893903907228e-17
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_ec,right parietal,-5.551115123125783e-17
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_ec,"right O, PO and CP",-1.1102230246251565e-16
+17.0,1.0,m_17_01,2023-07-23 11:03:23,1,baseline_ec,"left O, PO and CP",1.2212453270876723e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_eo,left occipital,-9.71445146547012e-17
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_eo,right occipital,-2.498001805406602e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_eo,left parietal-occipital,1.6653345369377348e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_eo,right parietal-occipital,5.551115123125783e-17
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_eo,left parietal,0.0
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_eo,right parietal,5.551115123125783e-17
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_eo,"right O, PO and CP",-1.6653345369377348e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_eo,"left O, PO and CP",-4.662936703425658e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_ec,left occipital,-2.7755575615628914e-17
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_ec,right occipital,1.1102230246251565e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_ec,left parietal-occipital,-2.7755575615628914e-17
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_ec,right parietal-occipital,-1.8041124150158794e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_ec,left parietal,1.3877787807814457e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_ec,right parietal,4.163336342344337e-17
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_ec,"right O, PO and CP",-1.9984014443252818e-16
+17.0,2.0,m_17_02,2023-07-23 11:42:16,1,baseline_ec,"left O, PO and CP",4.4408920985006264e-17
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_eo,left occipital,-4.996003610813204e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_eo,right occipital,-3.885780586188048e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_eo,left parietal-occipital,3.3306690738754696e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_eo,right parietal-occipital,1.1102230246251565e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_eo,left parietal,-4.440892098500626e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_eo,right parietal,1.6653345369377348e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_eo,"right O, PO and CP",-3.108624468950438e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_eo,"left O, PO and CP",8.881784197001253e-17
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_ec,left occipital,0.0
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_ec,right occipital,-1.1102230246251565e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_ec,left parietal-occipital,-2.220446049250313e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_ec,right parietal-occipital,0.0
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_ec,left parietal,5.551115123125783e-17
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_ec,right parietal,0.0
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_ec,"right O, PO and CP",1.3322676295501878e-16
+18.0,2.0,m_18_02,2023-07-23 14:31:31,1,baseline_ec,"left O, PO and CP",4.4408920985006264e-17
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_eo,left occipital,2.220446049250313e-16
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_eo,right occipital,2.7755575615628914e-16
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_eo,left parietal-occipital,6.106226635438361e-16
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_eo,right parietal-occipital,0.0
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_eo,left parietal,-4.718447854656915e-16
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_eo,right parietal,4.996003610813204e-16
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_eo,"right O, PO and CP",-1.1102230246251565e-16
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_eo,"left O, PO and CP",-4.4408920985006264e-17
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_ec,left occipital,-5.551115123125783e-17
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_ec,right occipital,0.0
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_ec,left parietal-occipital,0.0
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_ec,right parietal-occipital,-5.551115123125783e-17
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_ec,left parietal,0.0
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_ec,right parietal,0.0
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_ec,"right O, PO and CP",8.881784197001253e-17
+18.0,1.0,m_18_01,2023-07-23 14:19:00,1,baseline_ec,"left O, PO and CP",4.4408920985006264e-17
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_eo,left occipital,-2.7755575615628914e-16
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_eo,right occipital,2.7755575615628914e-16
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_eo,left parietal-occipital,-5.551115123125783e-17
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_eo,right parietal-occipital,-3.885780586188048e-16
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_eo,left parietal,-1.1102230246251565e-16
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_eo,right parietal,-1.6653345369377348e-16
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_eo,"right O, PO and CP",-6.661338147750939e-17
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_eo,"left O, PO and CP",-1.7763568394002506e-16
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_ec,left occipital,0.0
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_ec,right occipital,-1.1102230246251565e-16
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_ec,left parietal-occipital,0.0
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_ec,right parietal-occipital,1.1102230246251565e-16
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_ec,left parietal,-8.326672684688674e-17
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_ec,right parietal,0.0
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_ec,"right O, PO and CP",4.4408920985006264e-17
+19.0,2.0,m_19_02,2023-07-23 15:31:50,1,baseline_ec,"left O, PO and CP",-8.881784197001253e-17
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_eo,left occipital,-1.1102230246251565e-16
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_eo,right occipital,-8.326672684688674e-17
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_eo,left parietal-occipital,1.942890293094024e-16
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_eo,right parietal-occipital,-2.498001805406602e-16
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_eo,left parietal,-1.6653345369377348e-16
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_eo,right parietal,1.942890293094024e-16
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_eo,"right O, PO and CP",-6.661338147750939e-17
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_eo,"left O, PO and CP",-7.771561172376095e-17
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_ec,left occipital,-5.551115123125783e-17
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_ec,right occipital,0.0
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_ec,left parietal-occipital,1.1102230246251565e-16
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_ec,right parietal-occipital,-5.551115123125783e-17
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_ec,left parietal,1.6653345369377348e-16
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_ec,right parietal,-5.551115123125783e-17
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_ec,"right O, PO and CP",2.220446049250313e-16
+19.0,1.0,m_19_01,2023-07-23 11:34:50,1,baseline_ec,"left O, PO and CP",2.2204460492503132e-17
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_eo,left occipital,-1.1102230246251565e-16
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_eo,right occipital,0.0
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_eo,left parietal-occipital,1.1102230246251565e-16
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_eo,right parietal-occipital,-1.6653345369377348e-16
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_eo,left parietal,5.551115123125783e-17
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_eo,right parietal,-5.551115123125783e-17
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_eo,"right O, PO and CP",0.0
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_eo,"left O, PO and CP",-4.4408920985006264e-17
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_ec,left occipital,0.0
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_ec,right occipital,-1.1102230246251565e-16
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_ec,left parietal-occipital,0.0
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_ec,right parietal-occipital,1.6653345369377348e-16
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_ec,left parietal,5.551115123125783e-17
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_ec,right parietal,-5.551115123125783e-17
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_ec,"right O, PO and CP",8.881784197001253e-17
+20.0,1.0,m_20_01,2023-07-23 18:26:18,1,baseline_ec,"left O, PO and CP",1.3322676295501878e-16
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_eo,left occipital,-1.6653345369377348e-16
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_eo,right occipital,1.6653345369377348e-16
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_eo,left parietal-occipital,-5.551115123125783e-17
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_eo,right parietal-occipital,1.1102230246251565e-16
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_eo,left parietal,-8.326672684688674e-17
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_eo,right parietal,5.551115123125783e-17
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_eo,"right O, PO and CP",-4.4408920985006264e-17
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_eo,"left O, PO and CP",0.0
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_ec,left occipital,5.551115123125783e-17
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_ec,right occipital,0.0
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_ec,left parietal-occipital,5.551115123125783e-17
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_ec,right parietal-occipital,5.551115123125783e-17
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_ec,left parietal,1.1102230246251565e-16
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_ec,right parietal,-5.551115123125783e-17
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_ec,"right O, PO and CP",0.0
+20.0,2.0,m_20_02,2023-07-23 18:20:59,1,baseline_ec,"left O, PO and CP",4.4408920985006264e-17
