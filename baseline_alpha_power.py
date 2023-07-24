@@ -88,6 +88,8 @@ def get_psd_power(m_raw):
 def get_psd_power_test(ep, frange):
     spectrum = ep.compute_psd('welch', fmin=3, fmax=30, tmin=0, tmax=1)
     psds, freqs = spectrum.get_data(return_freqs=True)
+    psd_non_norm = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
+    print('non normed alpha power', psd_non_norm.mean())
     psds /= np.sum(psds,axis=-1, keepdims=True) # Normalise
     psds_band = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
     # print(psds_band.mean())
@@ -97,14 +99,8 @@ def get_avg_power(h5file, subject, session):
     """Return average power for h5 eeg data file.
     """
     regions = {
-        # 'left occipital' : ["O1"],
-        # 'right occipital' : ["O2"],
-        # 'left parietal-occipital':["PO7", "PO3"],
-        # 'right parietal-occipital':["PO8", "PO4"],
-        # 'left parietal' : ["P7", "P5", "P3", "P1"],
-        # 'right parietal' : ["P2", "P4", "P6", "P8"],
-        # 'right O, PO and CP' : ["P2", "P4", "P6", "P8", "PO8", "PO4", "O2", "CP6", "CP4", "CP2"],
-        # 'left O, PO and CP' : ["P7", "P5", "P3", "P1", "PO7", "PO3", "O1", "CP5", "CP3", "CP1"],
+        'left central, occipital parietal' : ["P7", "P5", "P3", "P1", "PO7", "PO3", "O1", "CP5", "CP3", "CP1"],
+        'right central, occipital parietal' : ["P2", "P4", "P6", "P8", "PO8", "PO4", "O2", "CP6", "CP4", "CP2"],
         'left hemisphere':["P7", "P5", "P3", "P1", "PO7", "PO3", "O1"],
         'right hemisphere':["P2", "P4", "P6", "P8", "PO8", "PO4", "O2"]
     }
@@ -156,8 +152,8 @@ def get_avg_power(h5file, subject, session):
 
             iaf = df_iaf[(df_iaf['Participant']==int(subject)) & (df_iaf['Session']==int(session))].IAF.iloc[0]
             print('iaf', iaf)
-            a_min = math.floor(iaf - 0.5)
-            a_max = math.ceil(iaf + 0.5) 
+            a_min = math.floor(iaf - 1)
+            a_max = math.ceil(iaf + 1) 
             freq_range = (a_min, a_max)
 
             power = get_psd_power_test(m_raw, freq_range)
