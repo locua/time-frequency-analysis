@@ -152,8 +152,8 @@ def get_avg_power(h5file, subject, session):
 
             iaf = df_iaf[(df_iaf['Participant']==int(subject)) & (df_iaf['Session']==int(session))].IAF.iloc[0]
             print('iaf', iaf)
-            a_min = math.floor(iaf - 1)
-            a_max = math.ceil(iaf + 1) 
+            a_min = math.floor(iaf - 0.5)
+            a_max = math.ceil(iaf + 0.5) 
             freq_range = (a_min, a_max)
 
             power = get_psd_power_test(m_raw, freq_range)
@@ -198,7 +198,3 @@ baselines = pd.merge(baseline1, merged_powers, on=['participant', 'session'])
 baselines = baselines.drop(columns=['filename'])
 
 baselines.to_csv('baseline_powers.csv', index=False)
-
-
-
-

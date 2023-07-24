@@ -7,38 +7,38 @@ participant,session,code,time,baseline,baseline type,ROI,power
 0.0,1.0,m_00_01,2023-07-24 14:29:35,1,baseline_ec,"right central, occipital parietal",0.025411526709148834
 0.0,1.0,m_00_01,2023-07-24 14:29:35,1,baseline_ec,left hemisphere,0.03311140060182065
 0.0,1.0,m_00_01,2023-07-24 14:29:35,1,baseline_ec,right hemisphere,0.02848371813655271
-0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_eo,"left central, occipital parietal",0.046294542315253526
-0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_eo,"right central, occipital parietal",0.06657805962026392
-0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_eo,left hemisphere,0.04728802340056112
-0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_eo,right hemisphere,0.058114683056919546
-0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_ec,"left central, occipital parietal",0.03776689627101705
-0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_ec,"right central, occipital parietal",0.07269734357944148
-0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_ec,left hemisphere,0.030306894873063504
-0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_ec,right hemisphere,0.0641136706332125
-1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_eo,"left central, occipital parietal",0.07325052121454687
-1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_eo,"right central, occipital parietal",0.07151249224680732
-1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_eo,left hemisphere,0.07196208068398811
-1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_eo,right hemisphere,0.06745864145668448
-1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_ec,"left central, occipital parietal",0.0258202245686043
-1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_ec,"right central, occipital parietal",0.025032846315209016
-1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_ec,left hemisphere,0.022054047754197448
-1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_ec,right hemisphere,0.020835461003940983
-1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_eo,"left central, occipital parietal",0.02247210605198242
-1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_eo,"right central, occipital parietal",0.030462763826824456
-1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_eo,left hemisphere,0.02007564172754474
-1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_eo,right hemisphere,0.02868343656450861
-1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_ec,"left central, occipital parietal",0.036347421685451485
-1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_ec,"right central, occipital parietal",0.029818639881224546
-1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_ec,left hemisphere,0.03302809601482964
-1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_ec,right hemisphere,0.029527955479515974
-2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_eo,"left central, occipital parietal",0.012993032573045678
-2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_eo,"right central, occipital parietal",0.019683144724750204
-2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_eo,left hemisphere,0.011174902943904844
-2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_eo,right hemisphere,0.021776574592907764
-2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_ec,"left central, occipital parietal",0.017622661460429602
-2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_ec,"right central, occipital parietal",0.014069377526204014
-2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_ec,left hemisphere,0.01776625838486939
-2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_ec,right hemisphere,0.01559220883722559
+0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_eo,"left central, occipital parietal",0.030556222209871975
+0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_eo,"right central, occipital parietal",0.14364868893425942
+0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_eo,left hemisphere,0.02910215737464053
+0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_eo,right hemisphere,0.11945183181161838
+0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_ec,"left central, occipital parietal",0.026617029454889956
+0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_ec,"right central, occipital parietal",0.04825647452605341
+0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_ec,left hemisphere,0.01879139913655613
+0.0,2.0,m_00_02,2023-07-24 13:51:33,1,baseline_ec,right hemisphere,0.03919869992349724
+1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_eo,"left central, occipital parietal",0.09269053572113135
+1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_eo,"right central, occipital parietal",0.05992149186964511
+1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_eo,left hemisphere,0.09058414897495597
+1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_eo,right hemisphere,0.05518792873282797
+1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_ec,"left central, occipital parietal",0.006194913054327929
+1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_ec,"right central, occipital parietal",0.014112730123837906
+1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_ec,left hemisphere,0.004662829349578139
+1.0,2.0,m_01_02,2023-07-24 10:53:03,1,baseline_ec,right hemisphere,0.009886864260356789
+1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_eo,"left central, occipital parietal",0.012270901151528835
+1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_eo,"right central, occipital parietal",0.027598615333389108
+1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_eo,left hemisphere,0.011030792741307067
+1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_eo,right hemisphere,0.026029107869399024
+1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_ec,"left central, occipital parietal",0.025169824525118824
+1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_ec,"right central, occipital parietal",0.02077250967977252
+1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_ec,left hemisphere,0.02817718345506099
+1.0,1.0,m_01_01,2023-07-24 14:17:22,1,baseline_ec,right hemisphere,0.021526202203877298
+2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_eo,"left central, occipital parietal",0.011012926332617284
+2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_eo,"right central, occipital parietal",0.021899217909342055
+2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_eo,left hemisphere,0.012090055420325421
+2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_eo,right hemisphere,0.029453902961496
+2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_ec,"left central, occipital parietal",0.01110233931280751
+2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_ec,"right central, occipital parietal",0.017289918633746196
+2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_ec,left hemisphere,0.010869487005665255
+2.0,2.0,m_02_02,2023-07-24 16:53:47,1,baseline_ec,right hemisphere,0.019648017371826126
 2.0,1.0,m_02_01,2023-07-24 15:37:02,1,baseline_eo,"left central, occipital parietal",0.03678693004804635
 2.0,1.0,m_02_01,2023-07-24 15:37:02,1,baseline_eo,"right central, occipital parietal",0.027012963087836062
 2.0,1.0,m_02_01,2023-07-24 15:37:02,1,baseline_eo,left hemisphere,0.04478594466252699
@@ -55,38 +55,38 @@ participant,session,code,time,baseline,baseline type,ROI,power
 3.0,2.0,m_03_02,2023-07-24 11:04:44,1,baseline_ec,"right central, occipital parietal",0.07361557598073115
 3.0,2.0,m_03_02,2023-07-24 11:04:44,1,baseline_ec,left hemisphere,0.059044173022956246
 3.0,2.0,m_03_02,2023-07-24 11:04:44,1,baseline_ec,right hemisphere,0.08131515798111455
-3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_eo,"left central, occipital parietal",0.0491800726795743
-3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_eo,"right central, occipital parietal",0.046877923094878024
-3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_eo,left hemisphere,0.05223202514620961
-3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_eo,right hemisphere,0.04735731000128475
-3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_ec,"left central, occipital parietal",0.02114135028538643
-3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_ec,"right central, occipital parietal",0.055015397738836694
-3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_ec,left hemisphere,0.0250317317994696
-3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_ec,right hemisphere,0.058208075633494845
-4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_eo,"left central, occipital parietal",0.029060013098713942
-4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_eo,"right central, occipital parietal",0.00873342199085254
-4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_eo,left hemisphere,0.02653534233241137
-4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_eo,right hemisphere,0.006886640257547728
-4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_ec,"left central, occipital parietal",0.07717251014305371
-4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_ec,"right central, occipital parietal",0.02977932934962626
-4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_ec,left hemisphere,0.08081161116834179
-4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_ec,right hemisphere,0.024635894102292968
-4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_eo,"left central, occipital parietal",0.06183015773398718
-4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_eo,"right central, occipital parietal",0.07252099938930714
-4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_eo,left hemisphere,0.055599552063766655
-4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_eo,right hemisphere,0.06896162626382316
-4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_ec,"left central, occipital parietal",0.0233632053960334
-4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_ec,"right central, occipital parietal",0.03020600246161264
-4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_ec,left hemisphere,0.022805587323953047
-4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_ec,right hemisphere,0.030762407862162503
-5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_eo,"left central, occipital parietal",0.03726661289003674
-5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_eo,"right central, occipital parietal",0.03491565265883075
-5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_eo,left hemisphere,0.03488625705380861
-5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_eo,right hemisphere,0.03566718257883738
-5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_ec,"left central, occipital parietal",0.04107590013111055
-5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_ec,"right central, occipital parietal",0.01061941292181612
-5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_ec,left hemisphere,0.04114262608342549
-5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_ec,right hemisphere,0.007087565432816046
+3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_eo,"left central, occipital parietal",0.035396427915140485
+3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_eo,"right central, occipital parietal",0.02584191641870599
+3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_eo,left hemisphere,0.032985387963140746
+3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_eo,right hemisphere,0.027547839510192955
+3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_ec,"left central, occipital parietal",0.021317788141722634
+3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_ec,"right central, occipital parietal",0.06930693236569904
+3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_ec,left hemisphere,0.02824489342718772
+3.0,1.0,m_03_01,2023-07-24 13:56:06,1,baseline_ec,right hemisphere,0.07436456708141104
+4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_eo,"left central, occipital parietal",0.024332576227221007
+4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_eo,"right central, occipital parietal",0.009275332156065555
+4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_eo,left hemisphere,0.02209090893336726
+4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_eo,right hemisphere,0.007702817836542584
+4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_ec,"left central, occipital parietal",0.08259546318136314
+4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_ec,"right central, occipital parietal",0.02240803582098345
+4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_ec,left hemisphere,0.07910298879777174
+4.0,1.0,m_04_01,2023-07-24 16:46:36,1,baseline_ec,right hemisphere,0.015365163831715547
+4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_eo,"left central, occipital parietal",0.044854268144224864
+4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_eo,"right central, occipital parietal",0.05409558990427408
+4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_eo,left hemisphere,0.037740214965231125
+4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_eo,right hemisphere,0.055064702983422
+4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_ec,"left central, occipital parietal",0.021749402891570475
+4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_ec,"right central, occipital parietal",0.03912312981761693
+4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_ec,left hemisphere,0.020611479156284942
+4.0,2.0,m_04_02,2023-07-24 16:47:22,1,baseline_ec,right hemisphere,0.039881936242137206
+5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_eo,"left central, occipital parietal",0.040855949286154866
+5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_eo,"right central, occipital parietal",0.03533422958148883
+5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_eo,left hemisphere,0.036929036774285606
+5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_eo,right hemisphere,0.03503866447976794
+5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_ec,"left central, occipital parietal",0.054268090219018815
+5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_ec,"right central, occipital parietal",0.010978807239028525
+5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_ec,left hemisphere,0.055881536506289894
+5.0,2.0,m_05_02,2023-07-24 15:05:50,1,baseline_ec,right hemisphere,0.006762319885388676
 5.0,1.0,m_05_01,2023-07-24 15:31:52,1,baseline_eo,"left central, occipital parietal",0.04374841093141134
 5.0,1.0,m_05_01,2023-07-24 15:31:52,1,baseline_eo,"right central, occipital parietal",0.03132976842019203
 5.0,1.0,m_05_01,2023-07-24 15:31:52,1,baseline_eo,left hemisphere,0.04676756178219011
@@ -95,22 +95,22 @@ participant,session,code,time,baseline,baseline type,ROI,power
 5.0,1.0,m_05_01,2023-07-24 15:31:52,1,baseline_ec,"right central, occipital parietal",0.11201651187747803
 5.0,1.0,m_05_01,2023-07-24 15:31:52,1,baseline_ec,left hemisphere,0.10796412727310782
 5.0,1.0,m_05_01,2023-07-24 15:31:52,1,baseline_ec,right hemisphere,0.12188871697066814
-6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_eo,"left central, occipital parietal",0.08060486131428282
-6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_eo,"right central, occipital parietal",0.06044825750849127
-6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_eo,left hemisphere,0.07545928996855143
-6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_eo,right hemisphere,0.05632470872481582
-6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_ec,"left central, occipital parietal",0.047897139218372936
-6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_ec,"right central, occipital parietal",0.028312898652717845
-6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_ec,left hemisphere,0.04931812316049995
-6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_ec,right hemisphere,0.03185859659750111
-6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_eo,"left central, occipital parietal",0.007441928912322271
-6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_eo,"right central, occipital parietal",0.03133313792272667
-6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_eo,left hemisphere,0.006005613484434062
-6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_eo,right hemisphere,0.03365954152519695
-6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_ec,"left central, occipital parietal",0.058005458195435865
-6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_ec,"right central, occipital parietal",0.13270922588541867
-6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_ec,left hemisphere,0.07747696087848058
-6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_ec,right hemisphere,0.1528295942840487
+6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_eo,"left central, occipital parietal",0.046611424045235286
+6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_eo,"right central, occipital parietal",0.03373798328597486
+6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_eo,left hemisphere,0.0471162580605763
+6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_eo,right hemisphere,0.03533367820910938
+6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_ec,"left central, occipital parietal",0.04078381971033698
+6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_ec,"right central, occipital parietal",0.024137566933399142
+6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_ec,left hemisphere,0.04450164730561986
+6.0,1.0,m_06_01,2023-07-24 11:22:39,1,baseline_ec,right hemisphere,0.02749077858225468
+6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_eo,"left central, occipital parietal",0.007557700071664132
+6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_eo,"right central, occipital parietal",0.03220622403430479
+6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_eo,left hemisphere,0.0053658509935613965
+6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_eo,right hemisphere,0.03482020934439498
+6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_ec,"left central, occipital parietal",0.07801647780321222
+6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_ec,"right central, occipital parietal",0.17906888496059262
+6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_ec,left hemisphere,0.10410164754962213
+6.0,2.0,m_06_02,2023-07-24 10:51:15,1,baseline_ec,right hemisphere,0.20600113223631558
 7.0,2.0,m_07_02,2023-07-24 14:51:00,1,baseline_eo,"left central, occipital parietal",0.10704624106865435
 7.0,2.0,m_07_02,2023-07-24 14:51:00,1,baseline_eo,"right central, occipital parietal",0.11611421764245375
 7.0,2.0,m_07_02,2023-07-24 14:51:00,1,baseline_eo,left hemisphere,0.11624015991003149
@@ -119,22 +119,22 @@ participant,session,code,time,baseline,baseline type,ROI,power
 7.0,2.0,m_07_02,2023-07-24 14:51:00,1,baseline_ec,"right central, occipital parietal",0.029639664196179583
 7.0,2.0,m_07_02,2023-07-24 14:51:00,1,baseline_ec,left hemisphere,0.020028210717719885
 7.0,2.0,m_07_02,2023-07-24 14:51:00,1,baseline_ec,right hemisphere,0.029126776635992176
-7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_eo,"left central, occipital parietal",0.04957625358818679
-7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_eo,"right central, occipital parietal",0.04029220014791692
-7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_eo,left hemisphere,0.04606167700232312
-7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_eo,right hemisphere,0.032512610960421226
-7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_ec,"left central, occipital parietal",0.11994081952343556
-7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_ec,"right central, occipital parietal",0.10529718475210248
-7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_ec,left hemisphere,0.1231328256607018
-7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_ec,right hemisphere,0.09933864658659378
-8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_eo,"left central, occipital parietal",0.027459337193254975
-8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_eo,"right central, occipital parietal",0.025155541913737228
-8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_eo,left hemisphere,0.033333781803424535
-8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_eo,right hemisphere,0.028952971684688578
-8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_ec,"left central, occipital parietal",0.06129616664687547
-8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_ec,"right central, occipital parietal",0.10507082609390372
-8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_ec,left hemisphere,0.06569836842296181
-8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_ec,right hemisphere,0.10448621617316865
+7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_eo,"left central, occipital parietal",0.044127930785290106
+7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_eo,"right central, occipital parietal",0.05130770355035682
+7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_eo,left hemisphere,0.04335473393307248
+7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_eo,right hemisphere,0.041807609300286305
+7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_ec,"left central, occipital parietal",0.11582981936918593
+7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_ec,"right central, occipital parietal",0.07878707932422983
+7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_ec,left hemisphere,0.11002380567260002
+7.0,1.0,m_07_01,2023-07-24 14:38:45,1,baseline_ec,right hemisphere,0.07320052923936289
+8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_eo,"left central, occipital parietal",0.02455515100918133
+8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_eo,"right central, occipital parietal",0.026319380046482804
+8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_eo,left hemisphere,0.02810948715981579
+8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_eo,right hemisphere,0.02864635556335152
+8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_ec,"left central, occipital parietal",0.044424635403033916
+8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_ec,"right central, occipital parietal",0.036519385486796806
+8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_ec,left hemisphere,0.04881048036012396
+8.0,1.0,m_08_01,2023-07-24 15:05:50,1,baseline_ec,right hemisphere,0.03372388955647252
 8.0,2.0,m_08_02,2023-07-24 18:01:20,1,baseline_eo,"left central, occipital parietal",0.031955375003974995
 8.0,2.0,m_08_02,2023-07-24 18:01:20,1,baseline_eo,"right central, occipital parietal",0.026604087068506255
 8.0,2.0,m_08_02,2023-07-24 18:01:20,1,baseline_eo,left hemisphere,0.03666648894947373
@@ -143,54 +143,54 @@ participant,session,code,time,baseline,baseline type,ROI,power
 8.0,2.0,m_08_02,2023-07-24 18:01:20,1,baseline_ec,"right central, occipital parietal",0.20514958757990964
 8.0,2.0,m_08_02,2023-07-24 18:01:20,1,baseline_ec,left hemisphere,0.20972881835663756
 8.0,2.0,m_08_02,2023-07-24 18:01:20,1,baseline_ec,right hemisphere,0.20747260353658595
-9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_eo,"left central, occipital parietal",0.016920843597718897
-9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_eo,"right central, occipital parietal",0.006766984212003747
-9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_eo,left hemisphere,0.02006446082936174
-9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_eo,right hemisphere,0.0068951376449661785
-9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_ec,"left central, occipital parietal",0.04711289507024532
-9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_ec,"right central, occipital parietal",0.06996217953709562
-9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_ec,left hemisphere,0.04696470096355844
-9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_ec,right hemisphere,0.07505910553831455
-9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_eo,"left central, occipital parietal",0.037108319619836995
-9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_eo,"right central, occipital parietal",0.032358757892655785
-9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_eo,left hemisphere,0.03503008107606267
-9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_eo,right hemisphere,0.030734706459526785
-9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_ec,"left central, occipital parietal",0.23565562288294775
-9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_ec,"right central, occipital parietal",0.16541206843183914
-9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_ec,left hemisphere,0.2487325060056346
-9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_ec,right hemisphere,0.19086806292044184
-10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_eo,"left central, occipital parietal",0.047970850613832924
-10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_eo,"right central, occipital parietal",0.06561169672722852
-10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_eo,left hemisphere,0.05208202750968767
-10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_eo,right hemisphere,0.06093148731398214
-10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_ec,"left central, occipital parietal",0.03763074778980913
-10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_ec,"right central, occipital parietal",0.029448174334090926
-10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_ec,left hemisphere,0.03058494343795889
-10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_ec,right hemisphere,0.020645288145106355
-10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_eo,"left central, occipital parietal",0.010780592187587569
-10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_eo,"right central, occipital parietal",0.027977277931126383
-10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_eo,left hemisphere,0.013010616829452265
-10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_eo,right hemisphere,0.020724666958659366
-10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_ec,"left central, occipital parietal",0.04289574024698374
-10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_ec,"right central, occipital parietal",0.061357823144294645
-10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_ec,left hemisphere,0.039087458576588706
-10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_ec,right hemisphere,0.06365066638217852
-11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_eo,"left central, occipital parietal",0.048864571988297474
-11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_eo,"right central, occipital parietal",0.03456007323764437
-11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_eo,left hemisphere,0.04965413456844316
-11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_eo,right hemisphere,0.03843880208720006
-11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_ec,"left central, occipital parietal",0.058958960108511226
-11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_ec,"right central, occipital parietal",0.04971102288336175
-11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_ec,left hemisphere,0.056311355839754954
-11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_ec,right hemisphere,0.04791794151310761
-11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_eo,"left central, occipital parietal",0.018736055423733595
-11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_eo,"right central, occipital parietal",0.02536144076385699
-11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_eo,left hemisphere,0.017644006367452558
-11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_eo,right hemisphere,0.024676630611769362
-11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_ec,"left central, occipital parietal",0.028567551997154873
-11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_ec,"right central, occipital parietal",0.04790247206258951
-11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_ec,left hemisphere,0.02713079706779064
-11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_ec,right hemisphere,0.046541280624375965
+9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_eo,"left central, occipital parietal",0.022710460549631294
+9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_eo,"right central, occipital parietal",0.008681484255224576
+9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_eo,left hemisphere,0.02683312126870239
+9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_eo,right hemisphere,0.00913685951274454
+9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_ec,"left central, occipital parietal",0.05125849799052408
+9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_ec,"right central, occipital parietal",0.08154005276260179
+9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_ec,left hemisphere,0.055817955067118896
+9.0,1.0,m_09_01,2023-07-24 19:03:06,1,baseline_ec,right hemisphere,0.08660272524001643
+9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_eo,"left central, occipital parietal",0.02551178684947793
+9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_eo,"right central, occipital parietal",0.02012600242147186
+9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_eo,left hemisphere,0.023893178408708506
+9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_eo,right hemisphere,0.0205532129202893
+9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_ec,"left central, occipital parietal",0.30364163646306075
+9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_ec,"right central, occipital parietal",0.2036947017006757
+9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_ec,left hemisphere,0.32229595425723495
+9.0,2.0,m_09_02,2023-07-24 18:17:16,1,baseline_ec,right hemisphere,0.23406921649865944
+10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_eo,"left central, occipital parietal",0.039589007126481744
+10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_eo,"right central, occipital parietal",0.06856428118369437
+10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_eo,left hemisphere,0.04356864904232839
+10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_eo,right hemisphere,0.06473911701661804
+10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_ec,"left central, occipital parietal",0.04132875544717654
+10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_ec,"right central, occipital parietal",0.027144993896693885
+10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_ec,left hemisphere,0.032653698299875335
+10.0,1.0,m_10_01,2023-07-24 12:03:17,1,baseline_ec,right hemisphere,0.021030452105668517
+10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_eo,"left central, occipital parietal",0.010617044028914042
+10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_eo,"right central, occipital parietal",0.016249612086077753
+10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_eo,left hemisphere,0.01412734038485705
+10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_eo,right hemisphere,0.008536514551924779
+10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_ec,"left central, occipital parietal",0.04689069944547671
+10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_ec,"right central, occipital parietal",0.0665956105409061
+10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_ec,left hemisphere,0.04434354947836267
+10.0,2.0,m_10_02,2023-07-24 14:58:38,1,baseline_ec,right hemisphere,0.07098258362588693
+11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_eo,"left central, occipital parietal",0.03280397652084968
+11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_eo,"right central, occipital parietal",0.028129269372872173
+11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_eo,left hemisphere,0.03022922662073786
+11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_eo,right hemisphere,0.027538976037680688
+11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_ec,"left central, occipital parietal",0.07168500066310954
+11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_ec,"right central, occipital parietal",0.057810849156740084
+11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_ec,left hemisphere,0.06934257137651023
+11.0,2.0,m_11_02,2023-07-24 14:58:28,1,baseline_ec,right hemisphere,0.05683997615754523
+11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_eo,"left central, occipital parietal",0.02625589060450511
+11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_eo,"right central, occipital parietal",0.029562730766163052
+11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_eo,left hemisphere,0.02411233614227207
+11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_eo,right hemisphere,0.02743560504682254
+11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_ec,"left central, occipital parietal",0.0384859769926393
+11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_ec,"right central, occipital parietal",0.05944192639032024
+11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_ec,left hemisphere,0.037738759241079105
+11.0,1.0,m_11_01,2023-07-24 16:03:20,1,baseline_ec,right hemisphere,0.060348147136428
 12.0,2.0,m_12_02,2023-07-24 11:00:06,1,baseline_eo,"left central, occipital parietal",0.03106350049810432
 12.0,2.0,m_12_02,2023-07-24 11:00:06,1,baseline_eo,"right central, occipital parietal",0.030819265588987795
 12.0,2.0,m_12_02,2023-07-24 11:00:06,1,baseline_eo,left hemisphere,0.03532216690129841
@@ -199,22 +199,22 @@ participant,session,code,time,baseline,baseline type,ROI,power
 12.0,2.0,m_12_02,2023-07-24 11:00:06,1,baseline_ec,"right central, occipital parietal",0.19657008499291803
 12.0,2.0,m_12_02,2023-07-24 11:00:06,1,baseline_ec,left hemisphere,0.2760064393260571
 12.0,2.0,m_12_02,2023-07-24 11:00:06,1,baseline_ec,right hemisphere,0.2050313941581666
-12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_eo,"left central, occipital parietal",0.010870171029138332
-12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_eo,"right central, occipital parietal",0.007355674330079461
-12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_eo,left hemisphere,0.008862550853635246
-12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_eo,right hemisphere,0.0076030170951014876
-12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_ec,"left central, occipital parietal",0.08829776269309454
-12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_ec,"right central, occipital parietal",0.12090724871104601
-12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_ec,left hemisphere,0.0926170996805556
-12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_ec,right hemisphere,0.13219579200451045
-13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_eo,"left central, occipital parietal",0.05641055750445578
-13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_eo,"right central, occipital parietal",0.08382592302045762
-13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_eo,left hemisphere,0.06023693660814687
-13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_eo,right hemisphere,0.07677567142197665
-13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_ec,"left central, occipital parietal",0.06320528284365827
-13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_ec,"right central, occipital parietal",0.03368499733782698
-13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_ec,left hemisphere,0.06832147336803222
-13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_ec,right hemisphere,0.03815050442790989
+12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_eo,"left central, occipital parietal",0.007610303408540746
+12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_eo,"right central, occipital parietal",0.005005557375224625
+12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_eo,left hemisphere,0.005949024801070231
+12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_eo,right hemisphere,0.005767350564452748
+12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_ec,"left central, occipital parietal",0.11723998985625383
+12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_ec,"right central, occipital parietal",0.17430781402199377
+12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_ec,left hemisphere,0.1235714630786126
+12.0,1.0,m_12_01,2023-07-24 11:48:59,1,baseline_ec,right hemisphere,0.1904558383436927
+13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_eo,"left central, occipital parietal",0.02523386280525187
+13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_eo,"right central, occipital parietal",0.05518240396774449
+13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_eo,left hemisphere,0.024963826438816113
+13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_eo,right hemisphere,0.046047927209195774
+13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_ec,"left central, occipital parietal",0.09207255679970472
+13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_ec,"right central, occipital parietal",0.04454528592140257
+13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_ec,left hemisphere,0.10095470538953953
+13.0,1.0,m_13_01,2023-07-24 11:13:46,1,baseline_ec,right hemisphere,0.05234008187080872
 13.0,2.0,m_13_02,2023-07-24 17:40:01,1,baseline_eo,"left central, occipital parietal",0.06384908011957402
 13.0,2.0,m_13_02,2023-07-24 17:40:01,1,baseline_eo,"right central, occipital parietal",0.11023996630663416
 13.0,2.0,m_13_02,2023-07-24 17:40:01,1,baseline_eo,left hemisphere,0.061014783379533255
@@ -223,54 +223,54 @@ participant,session,code,time,baseline,baseline type,ROI,power
 13.0,2.0,m_13_02,2023-07-24 17:40:01,1,baseline_ec,"right central, occipital parietal",0.016912376937486373
 13.0,2.0,m_13_02,2023-07-24 17:40:01,1,baseline_ec,left hemisphere,0.02383682166744586
 13.0,2.0,m_13_02,2023-07-24 17:40:01,1,baseline_ec,right hemisphere,0.020668520317290523
-14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_eo,"left central, occipital parietal",0.03972185288365439
-14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_eo,"right central, occipital parietal",0.02857781185178778
-14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_eo,left hemisphere,0.046179465103903604
-14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_eo,right hemisphere,0.02847266018869938
-14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_ec,"left central, occipital parietal",0.07505206654770477
-14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_ec,"right central, occipital parietal",0.04830283763276399
-14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_ec,left hemisphere,0.07642408833412233
-14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_ec,right hemisphere,0.05274304260661338
-14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_eo,"left central, occipital parietal",0.021934056336380087
-14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_eo,"right central, occipital parietal",0.024675579876310815
-14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_eo,left hemisphere,0.0238726271889975
-14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_eo,right hemisphere,0.026907513367370395
-14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_ec,"left central, occipital parietal",0.10738387688278375
-14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_ec,"right central, occipital parietal",0.0391959150098198
-14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_ec,left hemisphere,0.10212777632805568
-14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_ec,right hemisphere,0.031167236999965285
-15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_eo,"left central, occipital parietal",0.0275033209061528
-15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_eo,"right central, occipital parietal",0.02920376352207099
-15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_eo,left hemisphere,0.024261814715920343
-15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_eo,right hemisphere,0.028741011662264063
-15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_ec,"left central, occipital parietal",0.041920288909580695
-15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_ec,"right central, occipital parietal",0.05041238078801933
-15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_ec,left hemisphere,0.033762559733213335
-15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_ec,right hemisphere,0.05388866232169918
-15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_eo,"left central, occipital parietal",0.026507855310505375
-15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_eo,"right central, occipital parietal",0.03946093520971636
-15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_eo,left hemisphere,0.027171918277900754
-15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_eo,right hemisphere,0.04094212038153887
-15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_ec,"left central, occipital parietal",0.03938260779845716
-15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_ec,"right central, occipital parietal",0.05836574529724353
-15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_ec,left hemisphere,0.047683171118246985
-15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_ec,right hemisphere,0.061772199312571295
-16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_eo,"left central, occipital parietal",0.06781005055120759
-16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_eo,"right central, occipital parietal",0.05812784869283625
-16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_eo,left hemisphere,0.06769233461015499
-16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_eo,right hemisphere,0.06574176989723454
-16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_ec,"left central, occipital parietal",0.1772301045034818
-16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_ec,"right central, occipital parietal",0.15686314747249241
-16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_ec,left hemisphere,0.20614682866522296
-16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_ec,right hemisphere,0.17855002958583785
-16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_eo,"left central, occipital parietal",0.012466203720450927
-16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_eo,"right central, occipital parietal",0.0173432900121081
-16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_eo,left hemisphere,0.011648605353515246
-16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_eo,right hemisphere,0.013899452031382407
-16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_ec,"left central, occipital parietal",0.10963703438101333
-16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_ec,"right central, occipital parietal",0.1972891680834446
-16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_ec,left hemisphere,0.13524876638693203
-16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_ec,right hemisphere,0.20684866968904542
+14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_eo,"left central, occipital parietal",0.021023236151716387
+14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_eo,"right central, occipital parietal",0.025080108759931174
+14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_eo,left hemisphere,0.02937689234969695
+14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_eo,right hemisphere,0.022974355941275164
+14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_ec,"left central, occipital parietal",0.10355104196463405
+14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_ec,"right central, occipital parietal",0.07835409035013065
+14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_ec,left hemisphere,0.10355642487144537
+14.0,1.0,m_14_01,2023-07-24 15:36:20,1,baseline_ec,right hemisphere,0.0833936522712306
+14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_eo,"left central, occipital parietal",0.012930727564966715
+14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_eo,"right central, occipital parietal",0.0069491340632618056
+14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_eo,left hemisphere,0.012426396545918494
+14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_eo,right hemisphere,0.0066886199465510925
+14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_ec,"left central, occipital parietal",0.14924653707884894
+14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_ec,"right central, occipital parietal",0.03171080749916202
+14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_ec,left hemisphere,0.14260662723943782
+14.0,2.0,m_14_02,2023-07-24 15:29:50,1,baseline_ec,right hemisphere,0.025166479324051454
+15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_eo,"left central, occipital parietal",0.021356007686012795
+15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_eo,"right central, occipital parietal",0.017337074424584258
+15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_eo,left hemisphere,0.017092784431468944
+15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_eo,right hemisphere,0.014920963753974137
+15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_ec,"left central, occipital parietal",0.05028660027612551
+15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_ec,"right central, occipital parietal",0.0498815180094968
+15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_ec,left hemisphere,0.042136705854662226
+15.0,1.0,m_15_01,2023-07-24 18:30:39,1,baseline_ec,right hemisphere,0.05831187857500091
+15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_eo,"left central, occipital parietal",0.03306697576943407
+15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_eo,"right central, occipital parietal",0.03246109061972153
+15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_eo,left hemisphere,0.03705033393940666
+15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_eo,right hemisphere,0.029037443846095967
+15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_ec,"left central, occipital parietal",0.04853009559072073
+15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_ec,"right central, occipital parietal",0.06925120158506666
+15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_ec,left hemisphere,0.0580653755811013
+15.0,2.0,m_15_02,2023-07-24 17:06:37,1,baseline_ec,right hemisphere,0.07506039243816356
+16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_eo,"left central, occipital parietal",0.08323091541913694
+16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_eo,"right central, occipital parietal",0.07624067644659482
+16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_eo,left hemisphere,0.08554730139122317
+16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_eo,right hemisphere,0.08768818052756289
+16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_ec,"left central, occipital parietal",0.21231734626063675
+16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_ec,"right central, occipital parietal",0.16774404566336734
+16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_ec,left hemisphere,0.2659409053294594
+16.0,1.0,m_16_01,2023-07-24 11:27:52,1,baseline_ec,right hemisphere,0.1957562019702426
+16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_eo,"left central, occipital parietal",0.0032317693318490966
+16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_eo,"right central, occipital parietal",0.0019562540841091243
+16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_eo,left hemisphere,0.0008959587516447312
+16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_eo,right hemisphere,0.0008717909388576277
+16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_ec,"left central, occipital parietal",0.20585793514899842
+16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_ec,"right central, occipital parietal",0.28634363589532397
+16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_ec,left hemisphere,0.2585193874121227
+16.0,2.0,m_16_02,2023-07-24 11:11:17,1,baseline_ec,right hemisphere,0.29136158762298414
 17.0,1.0,m_17_01,2023-07-24 11:03:23,1,baseline_eo,"left central, occipital parietal",0.032717974438618465
 17.0,1.0,m_17_01,2023-07-24 11:03:23,1,baseline_eo,"right central, occipital parietal",0.0294098805866641
 17.0,1.0,m_17_01,2023-07-24 11:03:23,1,baseline_eo,left hemisphere,0.03634327779103542
@@ -287,14 +287,14 @@ participant,session,code,time,baseline,baseline type,ROI,power
 17.0,2.0,m_17_02,2023-07-24 11:42:16,1,baseline_ec,"right central, occipital parietal",0.030349285270431653
 17.0,2.0,m_17_02,2023-07-24 11:42:16,1,baseline_ec,left hemisphere,0.01976930443843668
 17.0,2.0,m_17_02,2023-07-24 11:42:16,1,baseline_ec,right hemisphere,0.03743926939192754
-18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_eo,"left central, occipital parietal",0.10624106674414616
-18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_eo,"right central, occipital parietal",0.08814311826469505
-18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_eo,left hemisphere,0.11409036350747219
-18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_eo,right hemisphere,0.09948803205602665
-18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_ec,"left central, occipital parietal",0.046885912395516635
-18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_ec,"right central, occipital parietal",0.05134314960346072
-18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_ec,left hemisphere,0.042339499034403774
-18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_ec,right hemisphere,0.05299181897226535
+18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_eo,"left central, occipital parietal",0.07852197687710827
+18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_eo,"right central, occipital parietal",0.049364279170990434
+18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_eo,left hemisphere,0.08216932751308384
+18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_eo,right hemisphere,0.05761540320967472
+18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_ec,"left central, occipital parietal",0.023828918327981445
+18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_ec,"right central, occipital parietal",0.016202121852587494
+18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_ec,left hemisphere,0.01917923981949433
+18.0,2.0,m_18_02,2023-07-24 14:31:31,1,baseline_ec,right hemisphere,0.01816187000610382
 18.0,1.0,m_18_01,2023-07-24 14:19:00,1,baseline_eo,"left central, occipital parietal",0.05728944316675921
 18.0,1.0,m_18_01,2023-07-24 14:19:00,1,baseline_eo,"right central, occipital parietal",0.09781291893071893
 18.0,1.0,m_18_01,2023-07-24 14:19:00,1,baseline_eo,left hemisphere,0.057674644811925406
@@ -303,22 +303,22 @@ participant,session,code,time,baseline,baseline type,ROI,power
 18.0,1.0,m_18_01,2023-07-24 14:19:00,1,baseline_ec,"right central, occipital parietal",0.0505469185314857
 18.0,1.0,m_18_01,2023-07-24 14:19:00,1,baseline_ec,left hemisphere,0.0468835032312106
 18.0,1.0,m_18_01,2023-07-24 14:19:00,1,baseline_ec,right hemisphere,0.05201508843645967
-19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_eo,"left central, occipital parietal",0.0454726316959502
-19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_eo,"right central, occipital parietal",0.03406496255189495
-19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_eo,left hemisphere,0.045545402288784405
-19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_eo,right hemisphere,0.03393905006501065
-19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_ec,"left central, occipital parietal",0.03224030184208088
-19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_ec,"right central, occipital parietal",0.009887991362954696
-19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_ec,left hemisphere,0.03031164049539733
-19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_ec,right hemisphere,0.008283523040783513
-19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_eo,"left central, occipital parietal",0.03518225174460754
-19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_eo,"right central, occipital parietal",0.053423206152593085
-19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_eo,left hemisphere,0.04175937250040028
-19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_eo,right hemisphere,0.06749730946345348
-19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_ec,"left central, occipital parietal",0.2865526000633175
-19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_ec,"right central, occipital parietal",0.2721458130652558
-19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_ec,left hemisphere,0.2868225532212759
-19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_ec,right hemisphere,0.27162140457195794
+19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_eo,"left central, occipital parietal",0.046557797736202056
+19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_eo,"right central, occipital parietal",0.052170314848747415
+19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_eo,left hemisphere,0.04119529541620026
+19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_eo,right hemisphere,0.04838540106892363
+19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_ec,"left central, occipital parietal",0.050336870865544794
+19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_ec,"right central, occipital parietal",0.009897897288159029
+19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_ec,left hemisphere,0.048896296604915394
+19.0,2.0,m_19_02,2023-07-24 15:31:50,1,baseline_ec,right hemisphere,0.00862568971406596
+19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_eo,"left central, occipital parietal",0.05076984347408683
+19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_eo,"right central, occipital parietal",0.050749023452895434
+19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_eo,left hemisphere,0.06543494785565541
+19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_eo,right hemisphere,0.07149220860220432
+19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_ec,"left central, occipital parietal",0.27594427517407616
+19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_ec,"right central, occipital parietal",0.20156180392195902
+19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_ec,left hemisphere,0.2633738788630518
+19.0,1.0,m_19_01,2023-07-24 11:34:50,1,baseline_ec,right hemisphere,0.18541916349676166
 20.0,1.0,m_20_01,2023-07-24 18:26:18,1,baseline_eo,"left central, occipital parietal",0.020614981758427228
 20.0,1.0,m_20_01,2023-07-24 18:26:18,1,baseline_eo,"right central, occipital parietal",0.04568819641150947
 20.0,1.0,m_20_01,2023-07-24 18:26:18,1,baseline_eo,left hemisphere,0.02170353729299797
