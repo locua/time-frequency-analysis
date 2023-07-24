@@ -2,7 +2,8 @@
 import os
 import re
 import mne
-import datetime
+import sys
+import math
 import numpy as np
 import pandas as pd
 
@@ -65,6 +66,18 @@ table['baseline'] = np.where(table['time'] == table.groupby('code')['time'].tran
 
 baseline1 = table[table['baseline']==1]
 
+print('* import individual alpha')
+# Import indivual alpha frequencies
+df_iaf = pd.read_csv('./participant_IAF_frequencies.csv')
+# Create a new DataFrame for iaf_2 values with session = 2
+df_iaf_2 = df_iaf[['IAF_2', 'participant_id']].rename(columns={'IAF_2': 'IAF', 'participant_id': 'Participant'})
+df_iaf_2['Session'] = 2
+
+# Create a new DataFrame for iaf_1 values with session = 1
+df_iaf_1 = df_iaf[['IAF_1', 'participant_id']].rename(columns={'IAF_1': 'IAF', 'participant_id': 'Participant'})
+df_iaf_1['Session'] = 1
+df_iaf = pd.concat([df_iaf_2, df_iaf_1], ignore_index=True)
+
 print('* looping through and getting alpha power')
 
 def get_psd_power(m_raw):
@@ -72,28 +85,28 @@ def get_psd_power(m_raw):
     alpha =  spectrum.to_data_frame().drop(columns=['freq']).melt().value.mean()
     return alpha
 
-
-def get_psd_power_normed(ep):
-    spectrum = ep.compute_psd('welch', fmin=8, fmax=12)
-    alpha =  spectrum.to_data_frame().drop(columns=['freq']).melt().value
-    mean_alpha =  spectrum.to_data_frame().drop(columns=['freq']).melt().value.mean()
-    std_alpha = spectrum.to_data_frame().drop(columns=['freq']).melt().value.std()
-    centered_alpha_power = alpha - mean_alpha
-    normed_alpha_power = centered_alpha_power / std_alpha
-    return normed_alpha_power.mean()
+def get_psd_power_test(ep, frange):
+    spectrum = ep.compute_psd('welch', fmin=3, fmax=30, tmin=0, tmax=1)
+    psds, freqs = spectrum.get_data(return_freqs=True)
+    psds /= np.sum(psds,axis=-1, keepdims=True) # Normalise
+    psds_band = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
+    # print(psds_band.mean())
+    return psds_band.mean()
 
 def get_avg_power(h5file, subject, session):
     """Return average power for h5 eeg data file.
     """
     regions = {
-        'left occipital' : ["O1"],
-        'right occipital' : ["O2"],
-        'left parietal-occipital':["PO7", "PO3"],
-        'right parietal-occipital':["PO8", "PO4"],
-        'left parietal' : ["P7", "P5", "P3", "P1"],
-        'right parietal' : ["P2", "P4", "P6", "P8"],
-        'right O, PO and CP' : ["P2", "P4", "P6", "P8", "PO8", "PO4", "O2", "CP6", "CP4", "CP2"],
-        'left O, PO and CP' : ["P7", "P5", "P3", "P1", "PO7", "PO3", "O1", "CP5", "CP3", "CP1"]
+        # 'left occipital' : ["O1"],
+        # 'right occipital' : ["O2"],
+        # 'left parietal-occipital':["PO7", "PO3"],
+        # 'right parietal-occipital':["PO8", "PO4"],
+        # 'left parietal' : ["P7", "P5", "P3", "P1"],
+        # 'right parietal' : ["P2", "P4", "P6", "P8"],
+        # 'right O, PO and CP' : ["P2", "P4", "P6", "P8", "PO8", "PO4", "O2", "CP6", "CP4", "CP2"],
+        # 'left O, PO and CP' : ["P7", "P5", "P3", "P1", "PO7", "PO3", "O1", "CP5", "CP3", "CP1"],
+        'left hemisphere':["P7", "P5", "P3", "P1", "PO7", "PO3", "O1"],
+        'right hemisphere':["P2", "P4", "P6", "P8", "PO8", "PO4", "O2"]
     }
 
 
@@ -141,7 +154,13 @@ def get_avg_power(h5file, subject, session):
             # Create the mne raw object with eeg data
             m_raw = mne.io.RawArray(eeg_data.T, m_info, first_samp=0, copy='auto', verbose=None)
 
-            power = get_psd_power(m_raw)
+            iaf = df_iaf[(df_iaf['Participant']==int(subject)) & (df_iaf['Session']==int(session))].IAF.iloc[0]
+            print('iaf', iaf)
+            a_min = math.floor(iaf - 0.5)
+            a_max = math.ceil(iaf + 0.5) 
+            freq_range = (a_min, a_max)
+
+            power = get_psd_power_test(m_raw, freq_range)
             roi_name = key
             output['baseline type'].append(baseline_name)
             output['ROI'].append(roi_name)
@@ -166,6 +185,7 @@ for index, row in baseline1.iterrows():
     #     break
     # count+=1
 
+# sys.exit(0)
 
 merged_powers = pd.concat(powers, ignore_index=True, sort=False)
 
@@ -179,11 +199,9 @@ print(merged_powers.dtypes)
 
 baselines = pd.merge(baseline1, merged_powers, on=['participant', 'session'])
 
-# print(second_merge.drop(columns=['filename']))
-
 baselines = baselines.drop(columns=['filename'])
 
-baselines.to_csv('baseline_powers_not_normed.csv', index=False)
+baselines.to_csv('baseline_powers.csv', index=False)
 
 
 
