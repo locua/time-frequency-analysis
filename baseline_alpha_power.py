@@ -85,14 +85,38 @@ def get_psd_power(m_raw):
     alpha =  spectrum.to_data_frame().drop(columns=['freq']).melt().value.mean()
     return alpha
 
-def get_psd_power_test(ep, frange):
-    spectrum = ep.compute_psd('welch', fmin=3, fmax=30, tmin=0, tmax=1)
+def get_psd_power_epoched(i_raw, frange, _roi):
+    ### Messing with epochs
+    #f_raw = i_raw.copy().filter(3, 30)
+    #_raw = f_raw.copy().set_eeg_reference(ref_channels="average")
+    eid=1
+    events = mne.make_fixed_length_events(i_raw, id=eid, duration=1)
+    epochs = mne.Epochs(i_raw, events=events, event_id=eid, tmin=-0.5, tmax=1, baseline=(0, None), preload=True, reject=dict(eeg=800e6), detrend=1)
+    evoked = epochs.average()
+    spectrum = evoked.compute_psd('welch', fmin=3, fmax=30, tmin=0, tmax=1, picks=_roi)
+    psds, freqs = spectrum.get_data(return_freqs=True)
+    psds_band = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
+    psds /= np.sum(psds,axis=-1, keepdims=True) # Normalise
+    psds_band_norm = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
+    print('power', psds_band.mean())
+    print('normpower', psds_band_norm.mean())
+    del epochs
+    return psds_band.mean(), psds_band_norm.mean(),
+
+def get_psd_power_test(_raw, frange):
+    #spectrum = _raw.compute_psd('welch', fmin=3, fmax=30, tmin=0, tmax=1)
+    #psds, freqs = spectrum.get_data(return_freqs=True)
+    #psd_non_norm = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
+    #print('non normed alpha power', psd_non_norm.mean())
+    #psds /= np.sum(psds,axis=-1, keepdims=True) # Normalise
+    #psds_band = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
+
+    spectrum = _raw.compute_psd('welch', fmin=3, fmax=30, tmin=0, tmax=1)
     psds, freqs = spectrum.get_data(return_freqs=True)
     psd_non_norm = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
     print('non normed alpha power', psd_non_norm.mean())
     psds /= np.sum(psds,axis=-1, keepdims=True) # Normalise
     psds_band = psds[:, (freqs >= frange[0]) & (freqs < frange[1])].mean(axis=-1)
-    # print(psds_band.mean())
     return psds_band.mean()
 
 def get_avg_power(h5file, subject, session):
@@ -157,13 +181,16 @@ def get_avg_power(h5file, subject, session):
             freq_range = (a_min, a_max)
 
             power = get_psd_power_test(m_raw, freq_range)
+
+            #p, pn = get_psd_power_epoched(m_raw, freq_range, value)
+
             roi_name = key
             output['baseline type'].append(baseline_name)
             output['ROI'].append(roi_name)
             output['participant'].append(subject)
             output['power'].append(power)
             output['session'].append(session)
-            print(power)
+            del m_raw
 
     return pd.DataFrame(output)
 
