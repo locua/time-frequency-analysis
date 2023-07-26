@@ -176,9 +176,10 @@ def get_avg_power(h5file, subject, session):
 
             iaf = df_iaf[(df_iaf['Participant']==int(subject)) & (df_iaf['Session']==int(session))].IAF.iloc[0]
             print('iaf', iaf)
-            a_min = math.floor(iaf - 0.5)
-            a_max = math.ceil(iaf + 0.5) 
+            a_min = iaf - 2
+            a_max = iaf + 2 
             freq_range = (a_min, a_max)
+            #freq_range = (8, 12)
 
             power = get_psd_power_test(m_raw, freq_range)
 
