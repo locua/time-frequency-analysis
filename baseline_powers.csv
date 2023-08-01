@@ -1,337 +1,337 @@
 participant,session,code,time,baseline,baseline type,ROI,power
-0.0,1.0,m_00_01,2023-07-26 14:29:35,1,baseline_eo,"left central, occipital parietal",0.06510780579652645
-0.0,1.0,m_00_01,2023-07-26 14:29:35,1,baseline_eo,"right central, occipital parietal",0.02811401956579295
-0.0,1.0,m_00_01,2023-07-26 14:29:35,1,baseline_eo,left hemisphere,0.06528436809130801
-0.0,1.0,m_00_01,2023-07-26 14:29:35,1,baseline_eo,right hemisphere,0.03197557282025792
-0.0,1.0,m_00_01,2023-07-26 14:29:35,1,baseline_ec,"left central, occipital parietal",0.03818131805078499
-0.0,1.0,m_00_01,2023-07-26 14:29:35,1,baseline_ec,"right central, occipital parietal",0.03375198927255136
-0.0,1.0,m_00_01,2023-07-26 14:29:35,1,baseline_ec,left hemisphere,0.04021358614971553
-0.0,1.0,m_00_01,2023-07-26 14:29:35,1,baseline_ec,right hemisphere,0.03367786309415965
-0.0,2.0,m_00_02,2023-07-26 13:51:33,1,baseline_eo,"left central, occipital parietal",0.0453163290285335
-0.0,2.0,m_00_02,2023-07-26 13:51:33,1,baseline_eo,"right central, occipital parietal",0.06299448741090305
-0.0,2.0,m_00_02,2023-07-26 13:51:33,1,baseline_eo,left hemisphere,0.046117408630275705
-0.0,2.0,m_00_02,2023-07-26 13:51:33,1,baseline_eo,right hemisphere,0.0578651400294493
-0.0,2.0,m_00_02,2023-07-26 13:51:33,1,baseline_ec,"left central, occipital parietal",0.04217928432896347
-0.0,2.0,m_00_02,2023-07-26 13:51:33,1,baseline_ec,"right central, occipital parietal",0.07053488035951472
-0.0,2.0,m_00_02,2023-07-26 13:51:33,1,baseline_ec,left hemisphere,0.035653266963694884
-0.0,2.0,m_00_02,2023-07-26 13:51:33,1,baseline_ec,right hemisphere,0.06125601497227327
-1.0,2.0,m_01_02,2023-07-26 10:53:03,1,baseline_eo,"left central, occipital parietal",0.0786645905092324
-1.0,2.0,m_01_02,2023-07-26 10:53:03,1,baseline_eo,"right central, occipital parietal",0.06585787098610098
-1.0,2.0,m_01_02,2023-07-26 10:53:03,1,baseline_eo,left hemisphere,0.07611509636427381
-1.0,2.0,m_01_02,2023-07-26 10:53:03,1,baseline_eo,right hemisphere,0.06492672943545581
-1.0,2.0,m_01_02,2023-07-26 10:53:03,1,baseline_ec,"left central, occipital parietal",0.02543594064893976
-1.0,2.0,m_01_02,2023-07-26 10:53:03,1,baseline_ec,"right central, occipital parietal",0.032731828210779454
-1.0,2.0,m_01_02,2023-07-26 10:53:03,1,baseline_ec,left hemisphere,0.02270405095321883
-1.0,2.0,m_01_02,2023-07-26 10:53:03,1,baseline_ec,right hemisphere,0.028862625592163797
-1.0,1.0,m_01_01,2023-07-26 14:17:22,1,baseline_eo,"left central, occipital parietal",0.0439313815241303
-1.0,1.0,m_01_01,2023-07-26 14:17:22,1,baseline_eo,"right central, occipital parietal",0.05206350125864869
-1.0,1.0,m_01_01,2023-07-26 14:17:22,1,baseline_eo,left hemisphere,0.042356920669918086
-1.0,1.0,m_01_01,2023-07-26 14:17:22,1,baseline_eo,right hemisphere,0.0508046708901968
-1.0,1.0,m_01_01,2023-07-26 14:17:22,1,baseline_ec,"left central, occipital parietal",0.040799931506382336
-1.0,1.0,m_01_01,2023-07-26 14:17:22,1,baseline_ec,"right central, occipital parietal",0.03871262479074572
-1.0,1.0,m_01_01,2023-07-26 14:17:22,1,baseline_ec,left hemisphere,0.035727162819842964
-1.0,1.0,m_01_01,2023-07-26 14:17:22,1,baseline_ec,right hemisphere,0.03841284528432699
-2.0,2.0,m_02_02,2023-07-26 16:53:47,1,baseline_eo,"left central, occipital parietal",0.016086022964845258
-2.0,2.0,m_02_02,2023-07-26 16:53:47,1,baseline_eo,"right central, occipital parietal",0.029691611617947884
-2.0,2.0,m_02_02,2023-07-26 16:53:47,1,baseline_eo,left hemisphere,0.01620970812728108
-2.0,2.0,m_02_02,2023-07-26 16:53:47,1,baseline_eo,right hemisphere,0.02944646672112097
-2.0,2.0,m_02_02,2023-07-26 16:53:47,1,baseline_ec,"left central, occipital parietal",0.026960053577009646
-2.0,2.0,m_02_02,2023-07-26 16:53:47,1,baseline_ec,"right central, occipital parietal",0.0173888003099636
-2.0,2.0,m_02_02,2023-07-26 16:53:47,1,baseline_ec,left hemisphere,0.02635239211167225
-2.0,2.0,m_02_02,2023-07-26 16:53:47,1,baseline_ec,right hemisphere,0.019470692916745202
-2.0,1.0,m_02_01,2023-07-26 15:37:02,1,baseline_eo,"left central, occipital parietal",0.058223905060477345
-2.0,1.0,m_02_01,2023-07-26 15:37:02,1,baseline_eo,"right central, occipital parietal",0.040808203825751684
-2.0,1.0,m_02_01,2023-07-26 15:37:02,1,baseline_eo,left hemisphere,0.06380943950560945
-2.0,1.0,m_02_01,2023-07-26 15:37:02,1,baseline_eo,right hemisphere,0.04166843824837087
-2.0,1.0,m_02_01,2023-07-26 15:37:02,1,baseline_ec,"left central, occipital parietal",0.11273047677612039
-2.0,1.0,m_02_01,2023-07-26 15:37:02,1,baseline_ec,"right central, occipital parietal",0.08483561658802066
-2.0,1.0,m_02_01,2023-07-26 15:37:02,1,baseline_ec,left hemisphere,0.11520591442555471
-2.0,1.0,m_02_01,2023-07-26 15:37:02,1,baseline_ec,right hemisphere,0.09519102028575037
-3.0,2.0,m_03_02,2023-07-26 11:04:44,1,baseline_eo,"left central, occipital parietal",0.0324784567350979
-3.0,2.0,m_03_02,2023-07-26 11:04:44,1,baseline_eo,"right central, occipital parietal",0.07058085742005553
-3.0,2.0,m_03_02,2023-07-26 11:04:44,1,baseline_eo,left hemisphere,0.031023153371628653
-3.0,2.0,m_03_02,2023-07-26 11:04:44,1,baseline_eo,right hemisphere,0.07115602704671092
-3.0,2.0,m_03_02,2023-07-26 11:04:44,1,baseline_ec,"left central, occipital parietal",0.032431222820130244
-3.0,2.0,m_03_02,2023-07-26 11:04:44,1,baseline_ec,"right central, occipital parietal",0.055505768672245756
-3.0,2.0,m_03_02,2023-07-26 11:04:44,1,baseline_ec,left hemisphere,0.04171376289040613
-3.0,2.0,m_03_02,2023-07-26 11:04:44,1,baseline_ec,right hemisphere,0.0591134678220291
-3.0,1.0,m_03_01,2023-07-26 13:56:06,1,baseline_eo,"left central, occipital parietal",0.04849023192792268
-3.0,1.0,m_03_01,2023-07-26 13:56:06,1,baseline_eo,"right central, occipital parietal",0.038528728207790686
-3.0,1.0,m_03_01,2023-07-26 13:56:06,1,baseline_eo,left hemisphere,0.05302458335169053
-3.0,1.0,m_03_01,2023-07-26 13:56:06,1,baseline_eo,right hemisphere,0.03837472356277905
-3.0,1.0,m_03_01,2023-07-26 13:56:06,1,baseline_ec,"left central, occipital parietal",0.05228182422906495
-3.0,1.0,m_03_01,2023-07-26 13:56:06,1,baseline_ec,"right central, occipital parietal",0.07349332406665027
-3.0,1.0,m_03_01,2023-07-26 13:56:06,1,baseline_ec,left hemisphere,0.05453231030896028
-3.0,1.0,m_03_01,2023-07-26 13:56:06,1,baseline_ec,right hemisphere,0.0773704930126108
-4.0,1.0,m_04_01,2023-07-26 16:46:36,1,baseline_eo,"left central, occipital parietal",0.024913588768613423
-4.0,1.0,m_04_01,2023-07-26 16:46:36,1,baseline_eo,"right central, occipital parietal",0.011854686563174222
-4.0,1.0,m_04_01,2023-07-26 16:46:36,1,baseline_eo,left hemisphere,0.022910077404593644
-4.0,1.0,m_04_01,2023-07-26 16:46:36,1,baseline_eo,right hemisphere,0.01093399770989996
-4.0,1.0,m_04_01,2023-07-26 16:46:36,1,baseline_ec,"left central, occipital parietal",0.07408938410308398
-4.0,1.0,m_04_01,2023-07-26 16:46:36,1,baseline_ec,"right central, occipital parietal",0.03897667193143137
-4.0,1.0,m_04_01,2023-07-26 16:46:36,1,baseline_ec,left hemisphere,0.07693735775383322
-4.0,1.0,m_04_01,2023-07-26 16:46:36,1,baseline_ec,right hemisphere,0.03381356231182683
-4.0,2.0,m_04_02,2023-07-26 16:47:22,1,baseline_eo,"left central, occipital parietal",0.08748605162902671
-4.0,2.0,m_04_02,2023-07-26 16:47:22,1,baseline_eo,"right central, occipital parietal",0.07390424618151027
-4.0,2.0,m_04_02,2023-07-26 16:47:22,1,baseline_eo,left hemisphere,0.08837710259855834
-4.0,2.0,m_04_02,2023-07-26 16:47:22,1,baseline_eo,right hemisphere,0.07067762933634993
-4.0,2.0,m_04_02,2023-07-26 16:47:22,1,baseline_ec,"left central, occipital parietal",0.041613867050857484
-4.0,2.0,m_04_02,2023-07-26 16:47:22,1,baseline_ec,"right central, occipital parietal",0.036486699378109166
-4.0,2.0,m_04_02,2023-07-26 16:47:22,1,baseline_ec,left hemisphere,0.04344416956685694
-4.0,2.0,m_04_02,2023-07-26 16:47:22,1,baseline_ec,right hemisphere,0.037677463469256454
-5.0,2.0,m_05_02,2023-07-26 15:05:50,1,baseline_eo,"left central, occipital parietal",0.045205229520817916
-5.0,2.0,m_05_02,2023-07-26 15:05:50,1,baseline_eo,"right central, occipital parietal",0.04170858483397734
-5.0,2.0,m_05_02,2023-07-26 15:05:50,1,baseline_eo,left hemisphere,0.04345256581519089
-5.0,2.0,m_05_02,2023-07-26 15:05:50,1,baseline_eo,right hemisphere,0.043362525723715274
-5.0,2.0,m_05_02,2023-07-26 15:05:50,1,baseline_ec,"left central, occipital parietal",0.03913544024671781
-5.0,2.0,m_05_02,2023-07-26 15:05:50,1,baseline_ec,"right central, occipital parietal",0.02392011397134359
-5.0,2.0,m_05_02,2023-07-26 15:05:50,1,baseline_ec,left hemisphere,0.03886573195875749
-5.0,2.0,m_05_02,2023-07-26 15:05:50,1,baseline_ec,right hemisphere,0.019484369083259973
-5.0,1.0,m_05_01,2023-07-26 15:31:52,1,baseline_eo,"left central, occipital parietal",0.033391048639653
-5.0,1.0,m_05_01,2023-07-26 15:31:52,1,baseline_eo,"right central, occipital parietal",0.037593965820106365
-5.0,1.0,m_05_01,2023-07-26 15:31:52,1,baseline_eo,left hemisphere,0.03392567780818417
-5.0,1.0,m_05_01,2023-07-26 15:31:52,1,baseline_eo,right hemisphere,0.03339463258768407
-5.0,1.0,m_05_01,2023-07-26 15:31:52,1,baseline_ec,"left central, occipital parietal",0.10340910683486097
-5.0,1.0,m_05_01,2023-07-26 15:31:52,1,baseline_ec,"right central, occipital parietal",0.10257033116451723
-5.0,1.0,m_05_01,2023-07-26 15:31:52,1,baseline_ec,left hemisphere,0.10801885668524261
-5.0,1.0,m_05_01,2023-07-26 15:31:52,1,baseline_ec,right hemisphere,0.11269528267757156
-6.0,1.0,m_06_01,2023-07-26 11:22:39,1,baseline_eo,"left central, occipital parietal",0.06325813116353626
-6.0,1.0,m_06_01,2023-07-26 11:22:39,1,baseline_eo,"right central, occipital parietal",0.04769295307156566
-6.0,1.0,m_06_01,2023-07-26 11:22:39,1,baseline_eo,left hemisphere,0.059965124556778056
-6.0,1.0,m_06_01,2023-07-26 11:22:39,1,baseline_eo,right hemisphere,0.04501575787047956
-6.0,1.0,m_06_01,2023-07-26 11:22:39,1,baseline_ec,"left central, occipital parietal",0.042772085089621534
-6.0,1.0,m_06_01,2023-07-26 11:22:39,1,baseline_ec,"right central, occipital parietal",0.02315445141345122
-6.0,1.0,m_06_01,2023-07-26 11:22:39,1,baseline_ec,left hemisphere,0.045272282860854884
-6.0,1.0,m_06_01,2023-07-26 11:22:39,1,baseline_ec,right hemisphere,0.02564642104205653
-6.0,2.0,m_06_02,2023-07-26 10:51:15,1,baseline_eo,"left central, occipital parietal",0.01848220383665152
-6.0,2.0,m_06_02,2023-07-26 10:51:15,1,baseline_eo,"right central, occipital parietal",0.04226808358635105
-6.0,2.0,m_06_02,2023-07-26 10:51:15,1,baseline_eo,left hemisphere,0.01743459766826593
-6.0,2.0,m_06_02,2023-07-26 10:51:15,1,baseline_eo,right hemisphere,0.04318503486365122
-6.0,2.0,m_06_02,2023-07-26 10:51:15,1,baseline_ec,"left central, occipital parietal",0.049600256046192094
-6.0,2.0,m_06_02,2023-07-26 10:51:15,1,baseline_ec,"right central, occipital parietal",0.10151317583937032
-6.0,2.0,m_06_02,2023-07-26 10:51:15,1,baseline_ec,left hemisphere,0.06367440919316081
-6.0,2.0,m_06_02,2023-07-26 10:51:15,1,baseline_ec,right hemisphere,0.1172188074350026
-7.0,2.0,m_07_02,2023-07-26 14:51:00,1,baseline_eo,"left central, occipital parietal",0.06962518470092065
-7.0,2.0,m_07_02,2023-07-26 14:51:00,1,baseline_eo,"right central, occipital parietal",0.06762449913517612
-7.0,2.0,m_07_02,2023-07-26 14:51:00,1,baseline_eo,left hemisphere,0.07363080640995744
-7.0,2.0,m_07_02,2023-07-26 14:51:00,1,baseline_eo,right hemisphere,0.07026552320405909
-7.0,2.0,m_07_02,2023-07-26 14:51:00,1,baseline_ec,"left central, occipital parietal",0.011730821670832435
-7.0,2.0,m_07_02,2023-07-26 14:51:00,1,baseline_ec,"right central, occipital parietal",0.022279629978012562
-7.0,2.0,m_07_02,2023-07-26 14:51:00,1,baseline_ec,left hemisphere,0.013512223700109448
-7.0,2.0,m_07_02,2023-07-26 14:51:00,1,baseline_ec,right hemisphere,0.020294944676756823
-7.0,1.0,m_07_01,2023-07-26 14:38:45,1,baseline_eo,"left central, occipital parietal",0.05689565204529299
-7.0,1.0,m_07_01,2023-07-26 14:38:45,1,baseline_eo,"right central, occipital parietal",0.047391071552753815
-7.0,1.0,m_07_01,2023-07-26 14:38:45,1,baseline_eo,left hemisphere,0.05988775965150094
-7.0,1.0,m_07_01,2023-07-26 14:38:45,1,baseline_eo,right hemisphere,0.045559195221668805
-7.0,1.0,m_07_01,2023-07-26 14:38:45,1,baseline_ec,"left central, occipital parietal",0.09910779518748361
-7.0,1.0,m_07_01,2023-07-26 14:38:45,1,baseline_ec,"right central, occipital parietal",0.0845836558214795
-7.0,1.0,m_07_01,2023-07-26 14:38:45,1,baseline_ec,left hemisphere,0.09942170712956856
-7.0,1.0,m_07_01,2023-07-26 14:38:45,1,baseline_ec,right hemisphere,0.07884790731832933
-8.0,1.0,m_08_01,2023-07-26 15:05:50,1,baseline_eo,"left central, occipital parietal",0.03319088887600818
-8.0,1.0,m_08_01,2023-07-26 15:05:50,1,baseline_eo,"right central, occipital parietal",0.02754112566599078
-8.0,1.0,m_08_01,2023-07-26 15:05:50,1,baseline_eo,left hemisphere,0.03696162290829053
-8.0,1.0,m_08_01,2023-07-26 15:05:50,1,baseline_eo,right hemisphere,0.02966490283399788
-8.0,1.0,m_08_01,2023-07-26 15:05:50,1,baseline_ec,"left central, occipital parietal",0.05155169102535765
-8.0,1.0,m_08_01,2023-07-26 15:05:50,1,baseline_ec,"right central, occipital parietal",0.08272658228357173
-8.0,1.0,m_08_01,2023-07-26 15:05:50,1,baseline_ec,left hemisphere,0.05363342939279586
-8.0,1.0,m_08_01,2023-07-26 15:05:50,1,baseline_ec,right hemisphere,0.08159032708579032
-8.0,2.0,m_08_02,2023-07-26 18:01:20,1,baseline_eo,"left central, occipital parietal",0.03358118426782748
-8.0,2.0,m_08_02,2023-07-26 18:01:20,1,baseline_eo,"right central, occipital parietal",0.03152916896284365
-8.0,2.0,m_08_02,2023-07-26 18:01:20,1,baseline_eo,left hemisphere,0.03888139455046539
-8.0,2.0,m_08_02,2023-07-26 18:01:20,1,baseline_eo,right hemisphere,0.03306337744614702
-8.0,2.0,m_08_02,2023-07-26 18:01:20,1,baseline_ec,"left central, occipital parietal",0.13584327967235352
-8.0,2.0,m_08_02,2023-07-26 18:01:20,1,baseline_ec,"right central, occipital parietal",0.16291420061635936
-8.0,2.0,m_08_02,2023-07-26 18:01:20,1,baseline_ec,left hemisphere,0.1523924697244931
-8.0,2.0,m_08_02,2023-07-26 18:01:20,1,baseline_ec,right hemisphere,0.16985466168499133
-9.0,1.0,m_09_01,2023-07-26 19:03:06,1,baseline_eo,"left central, occipital parietal",0.020021383105696303
-9.0,1.0,m_09_01,2023-07-26 19:03:06,1,baseline_eo,"right central, occipital parietal",0.015039989491720768
-9.0,1.0,m_09_01,2023-07-26 19:03:06,1,baseline_eo,left hemisphere,0.02346616047612308
-9.0,1.0,m_09_01,2023-07-26 19:03:06,1,baseline_eo,right hemisphere,0.016223926519457005
-9.0,1.0,m_09_01,2023-07-26 19:03:06,1,baseline_ec,"left central, occipital parietal",0.04503462378542013
-9.0,1.0,m_09_01,2023-07-26 19:03:06,1,baseline_ec,"right central, occipital parietal",0.055562265111439316
-9.0,1.0,m_09_01,2023-07-26 19:03:06,1,baseline_ec,left hemisphere,0.04509555102222892
-9.0,1.0,m_09_01,2023-07-26 19:03:06,1,baseline_ec,right hemisphere,0.05889260115619847
-9.0,2.0,m_09_02,2023-07-26 18:17:16,1,baseline_eo,"left central, occipital parietal",0.03366736832049292
-9.0,2.0,m_09_02,2023-07-26 18:17:16,1,baseline_eo,"right central, occipital parietal",0.031467871903664
-9.0,2.0,m_09_02,2023-07-26 18:17:16,1,baseline_eo,left hemisphere,0.030231742677817083
-9.0,2.0,m_09_02,2023-07-26 18:17:16,1,baseline_eo,right hemisphere,0.02982749571060404
-9.0,2.0,m_09_02,2023-07-26 18:17:16,1,baseline_ec,"left central, occipital parietal",0.17853820529517617
-9.0,2.0,m_09_02,2023-07-26 18:17:16,1,baseline_ec,"right central, occipital parietal",0.13497383168487062
-9.0,2.0,m_09_02,2023-07-26 18:17:16,1,baseline_ec,left hemisphere,0.18840345056933103
-9.0,2.0,m_09_02,2023-07-26 18:17:16,1,baseline_ec,right hemisphere,0.1527651517120913
-10.0,1.0,m_10_01,2023-07-26 12:03:17,1,baseline_eo,"left central, occipital parietal",0.03810578578727898
-10.0,1.0,m_10_01,2023-07-26 12:03:17,1,baseline_eo,"right central, occipital parietal",0.05196576096143447
-10.0,1.0,m_10_01,2023-07-26 12:03:17,1,baseline_eo,left hemisphere,0.04073547097072922
-10.0,1.0,m_10_01,2023-07-26 12:03:17,1,baseline_eo,right hemisphere,0.04948314066964924
-10.0,1.0,m_10_01,2023-07-26 12:03:17,1,baseline_ec,"left central, occipital parietal",0.06241525187792117
-10.0,1.0,m_10_01,2023-07-26 12:03:17,1,baseline_ec,"right central, occipital parietal",0.04915366462058372
-10.0,1.0,m_10_01,2023-07-26 12:03:17,1,baseline_ec,left hemisphere,0.062072474620941044
-10.0,1.0,m_10_01,2023-07-26 12:03:17,1,baseline_ec,right hemisphere,0.04917514169450253
-10.0,2.0,m_10_02,2023-07-26 14:58:38,1,baseline_eo,"left central, occipital parietal",0.014365513183788037
-10.0,2.0,m_10_02,2023-07-26 14:58:38,1,baseline_eo,"right central, occipital parietal",0.02425848927364792
-10.0,2.0,m_10_02,2023-07-26 14:58:38,1,baseline_eo,left hemisphere,0.017346026887889845
-10.0,2.0,m_10_02,2023-07-26 14:58:38,1,baseline_eo,right hemisphere,0.019610686697086672
-10.0,2.0,m_10_02,2023-07-26 14:58:38,1,baseline_ec,"left central, occipital parietal",0.040721596263764544
-10.0,2.0,m_10_02,2023-07-26 14:58:38,1,baseline_ec,"right central, occipital parietal",0.07658889474591857
-10.0,2.0,m_10_02,2023-07-26 14:58:38,1,baseline_ec,left hemisphere,0.04026837999843646
-10.0,2.0,m_10_02,2023-07-26 14:58:38,1,baseline_ec,right hemisphere,0.0754419435793587
-11.0,2.0,m_11_02,2023-07-26 14:58:28,1,baseline_eo,"left central, occipital parietal",0.04171500302625956
-11.0,2.0,m_11_02,2023-07-26 14:58:28,1,baseline_eo,"right central, occipital parietal",0.029677242803917193
-11.0,2.0,m_11_02,2023-07-26 14:58:28,1,baseline_eo,left hemisphere,0.0431552794941882
-11.0,2.0,m_11_02,2023-07-26 14:58:28,1,baseline_eo,right hemisphere,0.03356314329730704
-11.0,2.0,m_11_02,2023-07-26 14:58:28,1,baseline_ec,"left central, occipital parietal",0.05990518761894407
-11.0,2.0,m_11_02,2023-07-26 14:58:28,1,baseline_ec,"right central, occipital parietal",0.04127493740675743
-11.0,2.0,m_11_02,2023-07-26 14:58:28,1,baseline_ec,left hemisphere,0.05539498943357753
-11.0,2.0,m_11_02,2023-07-26 14:58:28,1,baseline_ec,right hemisphere,0.040018917559833216
-11.0,1.0,m_11_01,2023-07-26 16:03:20,1,baseline_eo,"left central, occipital parietal",0.01982286957018324
-11.0,1.0,m_11_01,2023-07-26 16:03:20,1,baseline_eo,"right central, occipital parietal",0.026956005690231037
-11.0,1.0,m_11_01,2023-07-26 16:03:20,1,baseline_eo,left hemisphere,0.019289135570311734
-11.0,1.0,m_11_01,2023-07-26 16:03:20,1,baseline_eo,right hemisphere,0.026276490011904026
-11.0,1.0,m_11_01,2023-07-26 16:03:20,1,baseline_ec,"left central, occipital parietal",0.0385102879664832
-11.0,1.0,m_11_01,2023-07-26 16:03:20,1,baseline_ec,"right central, occipital parietal",0.05221281233887191
-11.0,1.0,m_11_01,2023-07-26 16:03:20,1,baseline_ec,left hemisphere,0.037853731824811554
-11.0,1.0,m_11_01,2023-07-26 16:03:20,1,baseline_ec,right hemisphere,0.051120684343561706
-12.0,2.0,m_12_02,2023-07-26 11:00:06,1,baseline_eo,"left central, occipital parietal",0.03700003174075223
-12.0,2.0,m_12_02,2023-07-26 11:00:06,1,baseline_eo,"right central, occipital parietal",0.027952195329876518
-12.0,2.0,m_12_02,2023-07-26 11:00:06,1,baseline_eo,left hemisphere,0.03858944407040887
-12.0,2.0,m_12_02,2023-07-26 11:00:06,1,baseline_eo,right hemisphere,0.03014856719871445
-12.0,2.0,m_12_02,2023-07-26 11:00:06,1,baseline_ec,"left central, occipital parietal",0.2039078671465841
-12.0,2.0,m_12_02,2023-07-26 11:00:06,1,baseline_ec,"right central, occipital parietal",0.17129978903787474
-12.0,2.0,m_12_02,2023-07-26 11:00:06,1,baseline_ec,left hemisphere,0.21265905421179632
-12.0,2.0,m_12_02,2023-07-26 11:00:06,1,baseline_ec,right hemisphere,0.18122633139967034
-12.0,1.0,m_12_01,2023-07-26 11:48:59,1,baseline_eo,"left central, occipital parietal",0.014404212005291022
-12.0,1.0,m_12_01,2023-07-26 11:48:59,1,baseline_eo,"right central, occipital parietal",0.011018252598148415
-12.0,1.0,m_12_01,2023-07-26 11:48:59,1,baseline_eo,left hemisphere,0.011865021283419066
-12.0,1.0,m_12_01,2023-07-26 11:48:59,1,baseline_eo,right hemisphere,0.010043710119417756
-12.0,1.0,m_12_01,2023-07-26 11:48:59,1,baseline_ec,"left central, occipital parietal",0.09309528170467453
-12.0,1.0,m_12_01,2023-07-26 11:48:59,1,baseline_ec,"right central, occipital parietal",0.11908785953914744
-12.0,1.0,m_12_01,2023-07-26 11:48:59,1,baseline_ec,left hemisphere,0.09598480992986724
-12.0,1.0,m_12_01,2023-07-26 11:48:59,1,baseline_ec,right hemisphere,0.12821214036353704
-13.0,1.0,m_13_01,2023-07-26 11:13:46,1,baseline_eo,"left central, occipital parietal",0.06622215514590203
-13.0,1.0,m_13_01,2023-07-26 11:13:46,1,baseline_eo,"right central, occipital parietal",0.09196046554415202
-13.0,1.0,m_13_01,2023-07-26 11:13:46,1,baseline_eo,left hemisphere,0.07297421572848344
-13.0,1.0,m_13_01,2023-07-26 11:13:46,1,baseline_eo,right hemisphere,0.09020662592156226
-13.0,1.0,m_13_01,2023-07-26 11:13:46,1,baseline_ec,"left central, occipital parietal",0.05802168230612252
-13.0,1.0,m_13_01,2023-07-26 11:13:46,1,baseline_ec,"right central, occipital parietal",0.0418390924243193
-13.0,1.0,m_13_01,2023-07-26 11:13:46,1,baseline_ec,left hemisphere,0.061205935847410624
-13.0,1.0,m_13_01,2023-07-26 11:13:46,1,baseline_ec,right hemisphere,0.042693306084281554
-13.0,2.0,m_13_02,2023-07-26 17:40:01,1,baseline_eo,"left central, occipital parietal",0.055994019056999564
-13.0,2.0,m_13_02,2023-07-26 17:40:01,1,baseline_eo,"right central, occipital parietal",0.06793136045733165
-13.0,2.0,m_13_02,2023-07-26 17:40:01,1,baseline_eo,left hemisphere,0.05493313538376443
-13.0,2.0,m_13_02,2023-07-26 17:40:01,1,baseline_eo,right hemisphere,0.07096414393738812
-13.0,2.0,m_13_02,2023-07-26 17:40:01,1,baseline_ec,"left central, occipital parietal",0.021652264375960795
-13.0,2.0,m_13_02,2023-07-26 17:40:01,1,baseline_ec,"right central, occipital parietal",0.019485007093332646
-13.0,2.0,m_13_02,2023-07-26 17:40:01,1,baseline_ec,left hemisphere,0.02462418796659093
-13.0,2.0,m_13_02,2023-07-26 17:40:01,1,baseline_ec,right hemisphere,0.022239214332481046
-14.0,1.0,m_14_01,2023-07-26 15:36:20,1,baseline_eo,"left central, occipital parietal",0.04430271015724531
-14.0,1.0,m_14_01,2023-07-26 15:36:20,1,baseline_eo,"right central, occipital parietal",0.025213810837747225
-14.0,1.0,m_14_01,2023-07-26 15:36:20,1,baseline_eo,left hemisphere,0.046956713999323677
-14.0,1.0,m_14_01,2023-07-26 15:36:20,1,baseline_eo,right hemisphere,0.02505193637660181
-14.0,1.0,m_14_01,2023-07-26 15:36:20,1,baseline_ec,"left central, occipital parietal",0.0758524366780527
-14.0,1.0,m_14_01,2023-07-26 15:36:20,1,baseline_ec,"right central, occipital parietal",0.05298403059084415
-14.0,1.0,m_14_01,2023-07-26 15:36:20,1,baseline_ec,left hemisphere,0.08113776320463195
-14.0,1.0,m_14_01,2023-07-26 15:36:20,1,baseline_ec,right hemisphere,0.05697005034845298
-14.0,2.0,m_14_02,2023-07-26 15:29:50,1,baseline_eo,"left central, occipital parietal",0.02451650788000888
-14.0,2.0,m_14_02,2023-07-26 15:29:50,1,baseline_eo,"right central, occipital parietal",0.022473799323685005
-14.0,2.0,m_14_02,2023-07-26 15:29:50,1,baseline_eo,left hemisphere,0.026701094262348537
-14.0,2.0,m_14_02,2023-07-26 15:29:50,1,baseline_eo,right hemisphere,0.02451543575481757
-14.0,2.0,m_14_02,2023-07-26 15:29:50,1,baseline_ec,"left central, occipital parietal",0.09758373087533559
-14.0,2.0,m_14_02,2023-07-26 15:29:50,1,baseline_ec,"right central, occipital parietal",0.07775489942430078
-14.0,2.0,m_14_02,2023-07-26 15:29:50,1,baseline_ec,left hemisphere,0.09724272139397538
-14.0,2.0,m_14_02,2023-07-26 15:29:50,1,baseline_ec,right hemisphere,0.07467987950317849
-15.0,1.0,m_15_01,2023-07-26 18:30:39,1,baseline_eo,"left central, occipital parietal",0.03021237258566657
-15.0,1.0,m_15_01,2023-07-26 18:30:39,1,baseline_eo,"right central, occipital parietal",0.03307520942674049
-15.0,1.0,m_15_01,2023-07-26 18:30:39,1,baseline_eo,left hemisphere,0.027025982143901818
-15.0,1.0,m_15_01,2023-07-26 18:30:39,1,baseline_eo,right hemisphere,0.03290399774491715
-15.0,1.0,m_15_01,2023-07-26 18:30:39,1,baseline_ec,"left central, occipital parietal",0.04422276616443785
-15.0,1.0,m_15_01,2023-07-26 18:30:39,1,baseline_ec,"right central, occipital parietal",0.05995928290072015
-15.0,1.0,m_15_01,2023-07-26 18:30:39,1,baseline_ec,left hemisphere,0.038888950549798795
-15.0,1.0,m_15_01,2023-07-26 18:30:39,1,baseline_ec,right hemisphere,0.05870279198850696
-15.0,2.0,m_15_02,2023-07-26 17:06:37,1,baseline_eo,"left central, occipital parietal",0.02374693810305744
-15.0,2.0,m_15_02,2023-07-26 17:06:37,1,baseline_eo,"right central, occipital parietal",0.03259545136670141
-15.0,2.0,m_15_02,2023-07-26 17:06:37,1,baseline_eo,left hemisphere,0.02459517843863942
-15.0,2.0,m_15_02,2023-07-26 17:06:37,1,baseline_eo,right hemisphere,0.03400356696221417
-15.0,2.0,m_15_02,2023-07-26 17:06:37,1,baseline_ec,"left central, occipital parietal",0.03335240601711406
-15.0,2.0,m_15_02,2023-07-26 17:06:37,1,baseline_ec,"right central, occipital parietal",0.059187098152173954
-15.0,2.0,m_15_02,2023-07-26 17:06:37,1,baseline_ec,left hemisphere,0.03936928706003063
-15.0,2.0,m_15_02,2023-07-26 17:06:37,1,baseline_ec,right hemisphere,0.05720255146265477
-16.0,1.0,m_16_01,2023-07-26 11:27:52,1,baseline_eo,"left central, occipital parietal",0.07047096344092842
-16.0,1.0,m_16_01,2023-07-26 11:27:52,1,baseline_eo,"right central, occipital parietal",0.05855913422687055
-16.0,1.0,m_16_01,2023-07-26 11:27:52,1,baseline_eo,left hemisphere,0.07151319716017412
-16.0,1.0,m_16_01,2023-07-26 11:27:52,1,baseline_eo,right hemisphere,0.0669975383814418
-16.0,1.0,m_16_01,2023-07-26 11:27:52,1,baseline_ec,"left central, occipital parietal",0.14331491018401504
-16.0,1.0,m_16_01,2023-07-26 11:27:52,1,baseline_ec,"right central, occipital parietal",0.1527427138849539
-16.0,1.0,m_16_01,2023-07-26 11:27:52,1,baseline_ec,left hemisphere,0.16779525517832364
-16.0,1.0,m_16_01,2023-07-26 11:27:52,1,baseline_ec,right hemisphere,0.17198461207365165
-16.0,2.0,m_16_02,2023-07-26 11:11:17,1,baseline_eo,"left central, occipital parietal",0.02348644131467037
-16.0,2.0,m_16_02,2023-07-26 11:11:17,1,baseline_eo,"right central, occipital parietal",0.028395508299460786
-16.0,2.0,m_16_02,2023-07-26 11:11:17,1,baseline_eo,left hemisphere,0.025078361125414932
-16.0,2.0,m_16_02,2023-07-26 11:11:17,1,baseline_eo,right hemisphere,0.027079972196891487
-16.0,2.0,m_16_02,2023-07-26 11:11:17,1,baseline_ec,"left central, occipital parietal",0.09103394273821447
-16.0,2.0,m_16_02,2023-07-26 11:11:17,1,baseline_ec,"right central, occipital parietal",0.15780391676612793
-16.0,2.0,m_16_02,2023-07-26 11:11:17,1,baseline_ec,left hemisphere,0.10999298111764211
-16.0,2.0,m_16_02,2023-07-26 11:11:17,1,baseline_ec,right hemisphere,0.16353858919157593
-17.0,1.0,m_17_01,2023-07-26 11:03:23,1,baseline_eo,"left central, occipital parietal",0.045079629261852466
-17.0,1.0,m_17_01,2023-07-26 11:03:23,1,baseline_eo,"right central, occipital parietal",0.04349602770095722
-17.0,1.0,m_17_01,2023-07-26 11:03:23,1,baseline_eo,left hemisphere,0.04858598909645124
-17.0,1.0,m_17_01,2023-07-26 11:03:23,1,baseline_eo,right hemisphere,0.04480532563908257
-17.0,1.0,m_17_01,2023-07-26 11:03:23,1,baseline_ec,"left central, occipital parietal",0.06872172897246066
-17.0,1.0,m_17_01,2023-07-26 11:03:23,1,baseline_ec,"right central, occipital parietal",0.08337421794769309
-17.0,1.0,m_17_01,2023-07-26 11:03:23,1,baseline_ec,left hemisphere,0.07760918206369259
-17.0,1.0,m_17_01,2023-07-26 11:03:23,1,baseline_ec,right hemisphere,0.07726417839998644
-17.0,2.0,m_17_02,2023-07-26 11:42:16,1,baseline_eo,"left central, occipital parietal",0.04857508753878269
-17.0,2.0,m_17_02,2023-07-26 11:42:16,1,baseline_eo,"right central, occipital parietal",0.04066818354015972
-17.0,2.0,m_17_02,2023-07-26 11:42:16,1,baseline_eo,left hemisphere,0.048681109674938
-17.0,2.0,m_17_02,2023-07-26 11:42:16,1,baseline_eo,right hemisphere,0.04245272537078324
-17.0,2.0,m_17_02,2023-07-26 11:42:16,1,baseline_ec,"left central, occipital parietal",0.012403892141728563
-17.0,2.0,m_17_02,2023-07-26 11:42:16,1,baseline_ec,"right central, occipital parietal",0.024433733000195246
-17.0,2.0,m_17_02,2023-07-26 11:42:16,1,baseline_ec,left hemisphere,0.015801097116886476
-17.0,2.0,m_17_02,2023-07-26 11:42:16,1,baseline_ec,right hemisphere,0.028083185814344745
-18.0,2.0,m_18_02,2023-07-26 14:31:31,1,baseline_eo,"left central, occipital parietal",0.1190187677636646
-18.0,2.0,m_18_02,2023-07-26 14:31:31,1,baseline_eo,"right central, occipital parietal",0.10967228852845368
-18.0,2.0,m_18_02,2023-07-26 14:31:31,1,baseline_eo,left hemisphere,0.129997819469937
-18.0,2.0,m_18_02,2023-07-26 14:31:31,1,baseline_eo,right hemisphere,0.12127940170643835
-18.0,2.0,m_18_02,2023-07-26 14:31:31,1,baseline_ec,"left central, occipital parietal",0.055454159423609914
-18.0,2.0,m_18_02,2023-07-26 14:31:31,1,baseline_ec,"right central, occipital parietal",0.0770647451239478
-18.0,2.0,m_18_02,2023-07-26 14:31:31,1,baseline_ec,left hemisphere,0.0546692641662395
-18.0,2.0,m_18_02,2023-07-26 14:31:31,1,baseline_ec,right hemisphere,0.07380065220484956
-18.0,1.0,m_18_01,2023-07-26 14:19:00,1,baseline_eo,"left central, occipital parietal",0.037855916966778716
-18.0,1.0,m_18_01,2023-07-26 14:19:00,1,baseline_eo,"right central, occipital parietal",0.05533683230161557
-18.0,1.0,m_18_01,2023-07-26 14:19:00,1,baseline_eo,left hemisphere,0.036646275482410964
-18.0,1.0,m_18_01,2023-07-26 14:19:00,1,baseline_eo,right hemisphere,0.05321659617244444
-18.0,1.0,m_18_01,2023-07-26 14:19:00,1,baseline_ec,"left central, occipital parietal",0.037468421493759486
-18.0,1.0,m_18_01,2023-07-26 14:19:00,1,baseline_ec,"right central, occipital parietal",0.03967223611097631
-18.0,1.0,m_18_01,2023-07-26 14:19:00,1,baseline_ec,left hemisphere,0.03740965162259533
-18.0,1.0,m_18_01,2023-07-26 14:19:00,1,baseline_ec,right hemisphere,0.039738551228695414
-19.0,2.0,m_19_02,2023-07-26 15:31:50,1,baseline_eo,"left central, occipital parietal",0.04938750859827421
-19.0,2.0,m_19_02,2023-07-26 15:31:50,1,baseline_eo,"right central, occipital parietal",0.05140324132227388
-19.0,2.0,m_19_02,2023-07-26 15:31:50,1,baseline_eo,left hemisphere,0.05113692657286241
-19.0,2.0,m_19_02,2023-07-26 15:31:50,1,baseline_eo,right hemisphere,0.0525460377651707
-19.0,2.0,m_19_02,2023-07-26 15:31:50,1,baseline_ec,"left central, occipital parietal",0.039584384811881354
-19.0,2.0,m_19_02,2023-07-26 15:31:50,1,baseline_ec,"right central, occipital parietal",0.027854267412123775
-19.0,2.0,m_19_02,2023-07-26 15:31:50,1,baseline_ec,left hemisphere,0.03842871737918486
-19.0,2.0,m_19_02,2023-07-26 15:31:50,1,baseline_ec,right hemisphere,0.024619079745934535
-19.0,1.0,m_19_01,2023-07-26 11:34:50,1,baseline_eo,"left central, occipital parietal",0.045210520757521154
-19.0,1.0,m_19_01,2023-07-26 11:34:50,1,baseline_eo,"right central, occipital parietal",0.048380834848112154
-19.0,1.0,m_19_01,2023-07-26 11:34:50,1,baseline_eo,left hemisphere,0.04801614084795253
-19.0,1.0,m_19_01,2023-07-26 11:34:50,1,baseline_eo,right hemisphere,0.0579645410641429
-19.0,1.0,m_19_01,2023-07-26 11:34:50,1,baseline_ec,"left central, occipital parietal",0.21701421741229393
-19.0,1.0,m_19_01,2023-07-26 11:34:50,1,baseline_ec,"right central, occipital parietal",0.20836738054093532
-19.0,1.0,m_19_01,2023-07-26 11:34:50,1,baseline_ec,left hemisphere,0.21700340222620015
-19.0,1.0,m_19_01,2023-07-26 11:34:50,1,baseline_ec,right hemisphere,0.20758035933044366
-20.0,1.0,m_20_01,2023-07-26 18:26:18,1,baseline_eo,"left central, occipital parietal",0.0350337853580985
-20.0,1.0,m_20_01,2023-07-26 18:26:18,1,baseline_eo,"right central, occipital parietal",0.03451939481819287
-20.0,1.0,m_20_01,2023-07-26 18:26:18,1,baseline_eo,left hemisphere,0.0380533613389329
-20.0,1.0,m_20_01,2023-07-26 18:26:18,1,baseline_eo,right hemisphere,0.03083813862867565
-20.0,1.0,m_20_01,2023-07-26 18:26:18,1,baseline_ec,"left central, occipital parietal",0.13419498557302997
-20.0,1.0,m_20_01,2023-07-26 18:26:18,1,baseline_ec,"right central, occipital parietal",0.21143197764451632
-20.0,1.0,m_20_01,2023-07-26 18:26:18,1,baseline_ec,left hemisphere,0.14452563305111268
-20.0,1.0,m_20_01,2023-07-26 18:26:18,1,baseline_ec,right hemisphere,0.21327344661343264
-20.0,2.0,m_20_02,2023-07-26 18:20:59,1,baseline_eo,"left central, occipital parietal",0.03535907034000379
-20.0,2.0,m_20_02,2023-07-26 18:20:59,1,baseline_eo,"right central, occipital parietal",0.04350772865750114
-20.0,2.0,m_20_02,2023-07-26 18:20:59,1,baseline_eo,left hemisphere,0.03571261119842812
-20.0,2.0,m_20_02,2023-07-26 18:20:59,1,baseline_eo,right hemisphere,0.04335367760219019
-20.0,2.0,m_20_02,2023-07-26 18:20:59,1,baseline_ec,"left central, occipital parietal",0.040235274365559445
-20.0,2.0,m_20_02,2023-07-26 18:20:59,1,baseline_ec,"right central, occipital parietal",0.042975652416201396
-20.0,2.0,m_20_02,2023-07-26 18:20:59,1,baseline_ec,left hemisphere,0.041839266808808694
-20.0,2.0,m_20_02,2023-07-26 18:20:59,1,baseline_ec,right hemisphere,0.04412754560202368
+0.0,1.0,m_00_01,2023-07-31 14:29:35,1,baseline_eo,left nfb aai,0.06148184588344252
+0.0,1.0,m_00_01,2023-07-31 14:29:35,1,baseline_eo,right nfb aai,0.03696188159051201
+0.0,1.0,m_00_01,2023-07-31 14:29:35,1,baseline_eo,left hemisphere,0.06528436809130801
+0.0,1.0,m_00_01,2023-07-31 14:29:35,1,baseline_eo,right hemisphere,0.03197557282025792
+0.0,1.0,m_00_01,2023-07-31 14:29:35,1,baseline_ec,left nfb aai,0.0418404173909623
+0.0,1.0,m_00_01,2023-07-31 14:29:35,1,baseline_ec,right nfb aai,0.035796457303935054
+0.0,1.0,m_00_01,2023-07-31 14:29:35,1,baseline_ec,left hemisphere,0.04021358614971553
+0.0,1.0,m_00_01,2023-07-31 14:29:35,1,baseline_ec,right hemisphere,0.03367786309415965
+0.0,2.0,m_00_02,2023-07-31 13:51:33,1,baseline_eo,left nfb aai,0.04978924441107734
+0.0,2.0,m_00_02,2023-07-31 13:51:33,1,baseline_eo,right nfb aai,0.05321601829540961
+0.0,2.0,m_00_02,2023-07-31 13:51:33,1,baseline_eo,left hemisphere,0.046117408630275705
+0.0,2.0,m_00_02,2023-07-31 13:51:33,1,baseline_eo,right hemisphere,0.05786514002944929
+0.0,2.0,m_00_02,2023-07-31 13:51:33,1,baseline_ec,left nfb aai,0.036333057147555324
+0.0,2.0,m_00_02,2023-07-31 13:51:33,1,baseline_ec,right nfb aai,0.05660899896435106
+0.0,2.0,m_00_02,2023-07-31 13:51:33,1,baseline_ec,left hemisphere,0.035653266963694884
+0.0,2.0,m_00_02,2023-07-31 13:51:33,1,baseline_ec,right hemisphere,0.061256014972273294
+1.0,2.0,m_01_02,2023-07-31 10:53:03,1,baseline_eo,left nfb aai,0.07325021972402083
+1.0,2.0,m_01_02,2023-07-31 10:53:03,1,baseline_eo,right nfb aai,0.06268989924750025
+1.0,2.0,m_01_02,2023-07-31 10:53:03,1,baseline_eo,left hemisphere,0.0761150963642738
+1.0,2.0,m_01_02,2023-07-31 10:53:03,1,baseline_eo,right hemisphere,0.06492672943545581
+1.0,2.0,m_01_02,2023-07-31 10:53:03,1,baseline_ec,left nfb aai,0.023096966443244455
+1.0,2.0,m_01_02,2023-07-31 10:53:03,1,baseline_ec,right nfb aai,0.02941524107972387
+1.0,2.0,m_01_02,2023-07-31 10:53:03,1,baseline_ec,left hemisphere,0.022704050953218823
+1.0,2.0,m_01_02,2023-07-31 10:53:03,1,baseline_ec,right hemisphere,0.028862625592163793
+1.0,1.0,m_01_01,2023-07-31 14:17:22,1,baseline_eo,left nfb aai,0.04090090269113086
+1.0,1.0,m_01_01,2023-07-31 14:17:22,1,baseline_eo,right nfb aai,0.04597837518433371
+1.0,1.0,m_01_01,2023-07-31 14:17:22,1,baseline_eo,left hemisphere,0.042356920669918086
+1.0,1.0,m_01_01,2023-07-31 14:17:22,1,baseline_eo,right hemisphere,0.05080467089019681
+1.0,1.0,m_01_01,2023-07-31 14:17:22,1,baseline_ec,left nfb aai,0.035912399655238965
+1.0,1.0,m_01_01,2023-07-31 14:17:22,1,baseline_ec,right nfb aai,0.04231076480328231
+1.0,1.0,m_01_01,2023-07-31 14:17:22,1,baseline_ec,left hemisphere,0.035727162819842964
+1.0,1.0,m_01_01,2023-07-31 14:17:22,1,baseline_ec,right hemisphere,0.03841284528432698
+2.0,2.0,m_02_02,2023-07-31 16:53:47,1,baseline_eo,left nfb aai,0.018919182655860536
+2.0,2.0,m_02_02,2023-07-31 16:53:47,1,baseline_eo,right nfb aai,0.03125009782029504
+2.0,2.0,m_02_02,2023-07-31 16:53:47,1,baseline_eo,left hemisphere,0.016209708127281085
+2.0,2.0,m_02_02,2023-07-31 16:53:47,1,baseline_eo,right hemisphere,0.02944646672112097
+2.0,2.0,m_02_02,2023-07-31 16:53:47,1,baseline_ec,left nfb aai,0.02798781131128954
+2.0,2.0,m_02_02,2023-07-31 16:53:47,1,baseline_ec,right nfb aai,0.019039612773564377
+2.0,2.0,m_02_02,2023-07-31 16:53:47,1,baseline_ec,left hemisphere,0.02635239211167226
+2.0,2.0,m_02_02,2023-07-31 16:53:47,1,baseline_ec,right hemisphere,0.01947069291674521
+2.0,1.0,m_02_01,2023-07-31 15:37:02,1,baseline_eo,left nfb aai,0.06208909214080788
+2.0,1.0,m_02_01,2023-07-31 15:37:02,1,baseline_eo,right nfb aai,0.04161367442881811
+2.0,1.0,m_02_01,2023-07-31 15:37:02,1,baseline_eo,left hemisphere,0.06380943950560944
+2.0,1.0,m_02_01,2023-07-31 15:37:02,1,baseline_eo,right hemisphere,0.04166843824837087
+2.0,1.0,m_02_01,2023-07-31 15:37:02,1,baseline_ec,left nfb aai,0.10415729664649742
+2.0,1.0,m_02_01,2023-07-31 15:37:02,1,baseline_ec,right nfb aai,0.08957051327289993
+2.0,1.0,m_02_01,2023-07-31 15:37:02,1,baseline_ec,left hemisphere,0.11520591442555471
+2.0,1.0,m_02_01,2023-07-31 15:37:02,1,baseline_ec,right hemisphere,0.09519102028575037
+3.0,2.0,m_03_02,2023-07-31 11:04:44,1,baseline_eo,left nfb aai,0.024584436636840633
+3.0,2.0,m_03_02,2023-07-31 11:04:44,1,baseline_eo,right nfb aai,0.0614102796128116
+3.0,2.0,m_03_02,2023-07-31 11:04:44,1,baseline_eo,left hemisphere,0.03102315337162865
+3.0,2.0,m_03_02,2023-07-31 11:04:44,1,baseline_eo,right hemisphere,0.07115602704671092
+3.0,2.0,m_03_02,2023-07-31 11:04:44,1,baseline_ec,left nfb aai,0.04569999360363621
+3.0,2.0,m_03_02,2023-07-31 11:04:44,1,baseline_ec,right nfb aai,0.05690677506602854
+3.0,2.0,m_03_02,2023-07-31 11:04:44,1,baseline_ec,left hemisphere,0.04171376289040614
+3.0,2.0,m_03_02,2023-07-31 11:04:44,1,baseline_ec,right hemisphere,0.05911346782202912
+3.0,1.0,m_03_01,2023-07-31 13:56:06,1,baseline_eo,left nfb aai,0.04996588701884975
+3.0,1.0,m_03_01,2023-07-31 13:56:06,1,baseline_eo,right nfb aai,0.03463759437076248
+3.0,1.0,m_03_01,2023-07-31 13:56:06,1,baseline_eo,left hemisphere,0.053024583351690545
+3.0,1.0,m_03_01,2023-07-31 13:56:06,1,baseline_eo,right hemisphere,0.03837472356277906
+3.0,1.0,m_03_01,2023-07-31 13:56:06,1,baseline_ec,left nfb aai,0.05789905694607753
+3.0,1.0,m_03_01,2023-07-31 13:56:06,1,baseline_ec,right nfb aai,0.07929358853421382
+3.0,1.0,m_03_01,2023-07-31 13:56:06,1,baseline_ec,left hemisphere,0.054532310308960275
+3.0,1.0,m_03_01,2023-07-31 13:56:06,1,baseline_ec,right hemisphere,0.0773704930126108
+4.0,1.0,m_04_01,2023-07-31 16:46:36,1,baseline_eo,left nfb aai,0.02890099738833669
+4.0,1.0,m_04_01,2023-07-31 16:46:36,1,baseline_eo,right nfb aai,0.011152219729431326
+4.0,1.0,m_04_01,2023-07-31 16:46:36,1,baseline_eo,left hemisphere,0.022910077404593648
+4.0,1.0,m_04_01,2023-07-31 16:46:36,1,baseline_eo,right hemisphere,0.010933997709899957
+4.0,1.0,m_04_01,2023-07-31 16:46:36,1,baseline_ec,left nfb aai,0.0696862132773846
+4.0,1.0,m_04_01,2023-07-31 16:46:36,1,baseline_ec,right nfb aai,0.03408872615590602
+4.0,1.0,m_04_01,2023-07-31 16:46:36,1,baseline_ec,left hemisphere,0.07693735775383323
+4.0,1.0,m_04_01,2023-07-31 16:46:36,1,baseline_ec,right hemisphere,0.03381356231182684
+4.0,2.0,m_04_02,2023-07-31 16:47:22,1,baseline_eo,left nfb aai,0.08726324895326883
+4.0,2.0,m_04_02,2023-07-31 16:47:22,1,baseline_eo,right nfb aai,0.06977567856009545
+4.0,2.0,m_04_02,2023-07-31 16:47:22,1,baseline_eo,left hemisphere,0.08837710259855837
+4.0,2.0,m_04_02,2023-07-31 16:47:22,1,baseline_eo,right hemisphere,0.07067762933634991
+4.0,2.0,m_04_02,2023-07-31 16:47:22,1,baseline_ec,left nfb aai,0.04021431517082711
+4.0,2.0,m_04_02,2023-07-31 16:47:22,1,baseline_ec,right nfb aai,0.03500482076472126
+4.0,2.0,m_04_02,2023-07-31 16:47:22,1,baseline_ec,left hemisphere,0.04344416956685695
+4.0,2.0,m_04_02,2023-07-31 16:47:22,1,baseline_ec,right hemisphere,0.03767746346925647
+5.0,2.0,m_05_02,2023-07-31 15:05:50,1,baseline_eo,left nfb aai,0.04467663237847339
+5.0,2.0,m_05_02,2023-07-31 15:05:50,1,baseline_eo,right nfb aai,0.04447455503466091
+5.0,2.0,m_05_02,2023-07-31 15:05:50,1,baseline_eo,left hemisphere,0.04345256581519088
+5.0,2.0,m_05_02,2023-07-31 15:05:50,1,baseline_eo,right hemisphere,0.04336252572371526
+5.0,2.0,m_05_02,2023-07-31 15:05:50,1,baseline_ec,left nfb aai,0.0407378393520874
+5.0,2.0,m_05_02,2023-07-31 15:05:50,1,baseline_ec,right nfb aai,0.01829755962940922
+5.0,2.0,m_05_02,2023-07-31 15:05:50,1,baseline_ec,left hemisphere,0.038865731958757484
+5.0,2.0,m_05_02,2023-07-31 15:05:50,1,baseline_ec,right hemisphere,0.019484369083259966
+5.0,1.0,m_05_01,2023-07-31 15:31:52,1,baseline_eo,left nfb aai,0.033272133131079434
+5.0,1.0,m_05_01,2023-07-31 15:31:52,1,baseline_eo,right nfb aai,0.03178836234958025
+5.0,1.0,m_05_01,2023-07-31 15:31:52,1,baseline_eo,left hemisphere,0.03392567780818417
+5.0,1.0,m_05_01,2023-07-31 15:31:52,1,baseline_eo,right hemisphere,0.03339463258768408
+5.0,1.0,m_05_01,2023-07-31 15:31:52,1,baseline_ec,left nfb aai,0.11318744641487981
+5.0,1.0,m_05_01,2023-07-31 15:31:52,1,baseline_ec,right nfb aai,0.11790675885545839
+5.0,1.0,m_05_01,2023-07-31 15:31:52,1,baseline_ec,left hemisphere,0.10801885668524261
+5.0,1.0,m_05_01,2023-07-31 15:31:52,1,baseline_ec,right hemisphere,0.11269528267757156
+6.0,1.0,m_06_01,2023-07-31 11:22:39,1,baseline_eo,left nfb aai,0.048641161649230734
+6.0,1.0,m_06_01,2023-07-31 11:22:39,1,baseline_eo,right nfb aai,0.03615511329288684
+6.0,1.0,m_06_01,2023-07-31 11:22:39,1,baseline_eo,left hemisphere,0.05996512455677805
+6.0,1.0,m_06_01,2023-07-31 11:22:39,1,baseline_eo,right hemisphere,0.04501575787047956
+6.0,1.0,m_06_01,2023-07-31 11:22:39,1,baseline_ec,left nfb aai,0.04698710987195213
+6.0,1.0,m_06_01,2023-07-31 11:22:39,1,baseline_ec,right nfb aai,0.02457938989834531
+6.0,1.0,m_06_01,2023-07-31 11:22:39,1,baseline_ec,left hemisphere,0.04527228286085489
+6.0,1.0,m_06_01,2023-07-31 11:22:39,1,baseline_ec,right hemisphere,0.025646421042056538
+6.0,2.0,m_06_02,2023-07-31 10:51:15,1,baseline_eo,left nfb aai,0.016518781091620586
+6.0,2.0,m_06_02,2023-07-31 10:51:15,1,baseline_eo,right nfb aai,0.04282740053556922
+6.0,2.0,m_06_02,2023-07-31 10:51:15,1,baseline_eo,left hemisphere,0.01743459766826593
+6.0,2.0,m_06_02,2023-07-31 10:51:15,1,baseline_eo,right hemisphere,0.04318503486365122
+6.0,2.0,m_06_02,2023-07-31 10:51:15,1,baseline_ec,left nfb aai,0.06847665549011
+6.0,2.0,m_06_02,2023-07-31 10:51:15,1,baseline_ec,right nfb aai,0.12126006400311701
+6.0,2.0,m_06_02,2023-07-31 10:51:15,1,baseline_ec,left hemisphere,0.0636744091931608
+6.0,2.0,m_06_02,2023-07-31 10:51:15,1,baseline_ec,right hemisphere,0.1172188074350026
+7.0,2.0,m_07_02,2023-07-31 14:51:00,1,baseline_eo,left nfb aai,0.07601640891249171
+7.0,2.0,m_07_02,2023-07-31 14:51:00,1,baseline_eo,right nfb aai,0.07107021360757901
+7.0,2.0,m_07_02,2023-07-31 14:51:00,1,baseline_eo,left hemisphere,0.07363080640995744
+7.0,2.0,m_07_02,2023-07-31 14:51:00,1,baseline_eo,right hemisphere,0.07026552320405907
+7.0,2.0,m_07_02,2023-07-31 14:51:00,1,baseline_ec,left nfb aai,0.013705834500888364
+7.0,2.0,m_07_02,2023-07-31 14:51:00,1,baseline_ec,right nfb aai,0.019692863953103792
+7.0,2.0,m_07_02,2023-07-31 14:51:00,1,baseline_ec,left hemisphere,0.013512223700109448
+7.0,2.0,m_07_02,2023-07-31 14:51:00,1,baseline_ec,right hemisphere,0.020294944676756826
+7.0,1.0,m_07_01,2023-07-31 14:38:45,1,baseline_eo,left nfb aai,0.053552529583590504
+7.0,1.0,m_07_01,2023-07-31 14:38:45,1,baseline_eo,right nfb aai,0.042310502845982034
+7.0,1.0,m_07_01,2023-07-31 14:38:45,1,baseline_eo,left hemisphere,0.059887759651500956
+7.0,1.0,m_07_01,2023-07-31 14:38:45,1,baseline_eo,right hemisphere,0.045559195221668805
+7.0,1.0,m_07_01,2023-07-31 14:38:45,1,baseline_ec,left nfb aai,0.09626023330994825
+7.0,1.0,m_07_01,2023-07-31 14:38:45,1,baseline_ec,right nfb aai,0.07678677170570913
+7.0,1.0,m_07_01,2023-07-31 14:38:45,1,baseline_ec,left hemisphere,0.09942170712956853
+7.0,1.0,m_07_01,2023-07-31 14:38:45,1,baseline_ec,right hemisphere,0.07884790731832932
+8.0,1.0,m_08_01,2023-07-31 15:05:50,1,baseline_eo,left nfb aai,0.032637463569280746
+8.0,1.0,m_08_01,2023-07-31 15:05:50,1,baseline_eo,right nfb aai,0.0341708355709653
+8.0,1.0,m_08_01,2023-07-31 15:05:50,1,baseline_eo,left hemisphere,0.036961622908290526
+8.0,1.0,m_08_01,2023-07-31 15:05:50,1,baseline_eo,right hemisphere,0.029664902833997874
+8.0,1.0,m_08_01,2023-07-31 15:05:50,1,baseline_ec,left nfb aai,0.064194044372236
+8.0,1.0,m_08_01,2023-07-31 15:05:50,1,baseline_ec,right nfb aai,0.08133553680196401
+8.0,1.0,m_08_01,2023-07-31 15:05:50,1,baseline_ec,left hemisphere,0.053633429392795855
+8.0,1.0,m_08_01,2023-07-31 15:05:50,1,baseline_ec,right hemisphere,0.08159032708579031
+8.0,2.0,m_08_02,2023-07-31 18:01:20,1,baseline_eo,left nfb aai,0.04041782138327426
+8.0,2.0,m_08_02,2023-07-31 18:01:20,1,baseline_eo,right nfb aai,0.037525386229111286
+8.0,2.0,m_08_02,2023-07-31 18:01:20,1,baseline_eo,left hemisphere,0.03888139455046539
+8.0,2.0,m_08_02,2023-07-31 18:01:20,1,baseline_eo,right hemisphere,0.03306337744614702
+8.0,2.0,m_08_02,2023-07-31 18:01:20,1,baseline_ec,left nfb aai,0.14173696148602546
+8.0,2.0,m_08_02,2023-07-31 18:01:20,1,baseline_ec,right nfb aai,0.16128442154229014
+8.0,2.0,m_08_02,2023-07-31 18:01:20,1,baseline_ec,left hemisphere,0.15239246972449313
+8.0,2.0,m_08_02,2023-07-31 18:01:20,1,baseline_ec,right hemisphere,0.16985466168499133
+9.0,1.0,m_09_01,2023-07-31 19:03:06,1,baseline_eo,left nfb aai,0.024160648842038623
+9.0,1.0,m_09_01,2023-07-31 19:03:06,1,baseline_eo,right nfb aai,0.017268939162719404
+9.0,1.0,m_09_01,2023-07-31 19:03:06,1,baseline_eo,left hemisphere,0.02346616047612308
+9.0,1.0,m_09_01,2023-07-31 19:03:06,1,baseline_eo,right hemisphere,0.016223926519457005
+9.0,1.0,m_09_01,2023-07-31 19:03:06,1,baseline_ec,left nfb aai,0.04860376719792448
+9.0,1.0,m_09_01,2023-07-31 19:03:06,1,baseline_ec,right nfb aai,0.05698918018205237
+9.0,1.0,m_09_01,2023-07-31 19:03:06,1,baseline_ec,left hemisphere,0.04509555102222894
+9.0,1.0,m_09_01,2023-07-31 19:03:06,1,baseline_ec,right hemisphere,0.05889260115619847
+9.0,2.0,m_09_02,2023-07-31 18:17:16,1,baseline_eo,left nfb aai,0.026947739180176063
+9.0,2.0,m_09_02,2023-07-31 18:17:16,1,baseline_eo,right nfb aai,0.029487740292817557
+9.0,2.0,m_09_02,2023-07-31 18:17:16,1,baseline_eo,left hemisphere,0.030231742677817103
+9.0,2.0,m_09_02,2023-07-31 18:17:16,1,baseline_eo,right hemisphere,0.029827495710604047
+9.0,2.0,m_09_02,2023-07-31 18:17:16,1,baseline_ec,left nfb aai,0.19335652124717276
+9.0,2.0,m_09_02,2023-07-31 18:17:16,1,baseline_ec,right nfb aai,0.16311386849891946
+9.0,2.0,m_09_02,2023-07-31 18:17:16,1,baseline_ec,left hemisphere,0.18840345056933103
+9.0,2.0,m_09_02,2023-07-31 18:17:16,1,baseline_ec,right hemisphere,0.1527651517120913
+10.0,1.0,m_10_01,2023-07-31 12:03:17,1,baseline_eo,left nfb aai,0.04042788376482195
+10.0,1.0,m_10_01,2023-07-31 12:03:17,1,baseline_eo,right nfb aai,0.05061593497189285
+10.0,1.0,m_10_01,2023-07-31 12:03:17,1,baseline_eo,left hemisphere,0.04073547097072922
+10.0,1.0,m_10_01,2023-07-31 12:03:17,1,baseline_eo,right hemisphere,0.04948314066964925
+10.0,1.0,m_10_01,2023-07-31 12:03:17,1,baseline_ec,left nfb aai,0.06597497388600844
+10.0,1.0,m_10_01,2023-07-31 12:03:17,1,baseline_ec,right nfb aai,0.05292640011066694
+10.0,1.0,m_10_01,2023-07-31 12:03:17,1,baseline_ec,left hemisphere,0.062072474620941044
+10.0,1.0,m_10_01,2023-07-31 12:03:17,1,baseline_ec,right hemisphere,0.04917514169450253
+10.0,2.0,m_10_02,2023-07-31 14:58:38,1,baseline_eo,left nfb aai,0.018952557620678562
+10.0,2.0,m_10_02,2023-07-31 14:58:38,1,baseline_eo,right nfb aai,0.021286096919206687
+10.0,2.0,m_10_02,2023-07-31 14:58:38,1,baseline_eo,left hemisphere,0.017346026887889856
+10.0,2.0,m_10_02,2023-07-31 14:58:38,1,baseline_eo,right hemisphere,0.019610686697086675
+10.0,2.0,m_10_02,2023-07-31 14:58:38,1,baseline_ec,left nfb aai,0.039857137019296336
+10.0,2.0,m_10_02,2023-07-31 14:58:38,1,baseline_ec,right nfb aai,0.0757745716639739
+10.0,2.0,m_10_02,2023-07-31 14:58:38,1,baseline_ec,left hemisphere,0.040268379998436465
+10.0,2.0,m_10_02,2023-07-31 14:58:38,1,baseline_ec,right hemisphere,0.0754419435793587
+11.0,2.0,m_11_02,2023-07-31 14:58:28,1,baseline_eo,left nfb aai,0.04476766149640219
+11.0,2.0,m_11_02,2023-07-31 14:58:28,1,baseline_eo,right nfb aai,0.030153388336805743
+11.0,2.0,m_11_02,2023-07-31 14:58:28,1,baseline_eo,left hemisphere,0.043155279494188216
+11.0,2.0,m_11_02,2023-07-31 14:58:28,1,baseline_eo,right hemisphere,0.03356314329730704
+11.0,2.0,m_11_02,2023-07-31 14:58:28,1,baseline_ec,left nfb aai,0.053248653813569746
+11.0,2.0,m_11_02,2023-07-31 14:58:28,1,baseline_ec,right nfb aai,0.040639467954821214
+11.0,2.0,m_11_02,2023-07-31 14:58:28,1,baseline_ec,left hemisphere,0.05539498943357753
+11.0,2.0,m_11_02,2023-07-31 14:58:28,1,baseline_ec,right hemisphere,0.040018917559833216
+11.0,1.0,m_11_01,2023-07-31 16:03:20,1,baseline_eo,left nfb aai,0.01816621403679961
+11.0,1.0,m_11_01,2023-07-31 16:03:20,1,baseline_eo,right nfb aai,0.025211520570128942
+11.0,1.0,m_11_01,2023-07-31 16:03:20,1,baseline_eo,left hemisphere,0.01928913557031173
+11.0,1.0,m_11_01,2023-07-31 16:03:20,1,baseline_eo,right hemisphere,0.02627649001190402
+11.0,1.0,m_11_01,2023-07-31 16:03:20,1,baseline_ec,left nfb aai,0.0362945697276848
+11.0,1.0,m_11_01,2023-07-31 16:03:20,1,baseline_ec,right nfb aai,0.045927217770611595
+11.0,1.0,m_11_01,2023-07-31 16:03:20,1,baseline_ec,left hemisphere,0.037853731824811554
+11.0,1.0,m_11_01,2023-07-31 16:03:20,1,baseline_ec,right hemisphere,0.05112068434356171
+12.0,2.0,m_12_02,2023-07-31 11:00:06,1,baseline_eo,left nfb aai,0.031204377213396677
+12.0,2.0,m_12_02,2023-07-31 11:00:06,1,baseline_eo,right nfb aai,0.03181904479690854
+12.0,2.0,m_12_02,2023-07-31 11:00:06,1,baseline_eo,left hemisphere,0.03858944407040886
+12.0,2.0,m_12_02,2023-07-31 11:00:06,1,baseline_eo,right hemisphere,0.03014856719871445
+12.0,2.0,m_12_02,2023-07-31 11:00:06,1,baseline_ec,left nfb aai,0.2110903064703027
+12.0,2.0,m_12_02,2023-07-31 11:00:06,1,baseline_ec,right nfb aai,0.1803997300683576
+12.0,2.0,m_12_02,2023-07-31 11:00:06,1,baseline_ec,left hemisphere,0.21265905421179632
+12.0,2.0,m_12_02,2023-07-31 11:00:06,1,baseline_ec,right hemisphere,0.18122633139967034
+12.0,1.0,m_12_01,2023-07-31 11:48:59,1,baseline_eo,left nfb aai,0.011625204508469357
+12.0,1.0,m_12_01,2023-07-31 11:48:59,1,baseline_eo,right nfb aai,0.009414996198411331
+12.0,1.0,m_12_01,2023-07-31 11:48:59,1,baseline_eo,left hemisphere,0.011865021283419068
+12.0,1.0,m_12_01,2023-07-31 11:48:59,1,baseline_eo,right hemisphere,0.01004371011941776
+12.0,1.0,m_12_01,2023-07-31 11:48:59,1,baseline_ec,left nfb aai,0.0964268585426506
+12.0,1.0,m_12_01,2023-07-31 11:48:59,1,baseline_ec,right nfb aai,0.12632150738877532
+12.0,1.0,m_12_01,2023-07-31 11:48:59,1,baseline_ec,left hemisphere,0.09598480992986726
+12.0,1.0,m_12_01,2023-07-31 11:48:59,1,baseline_ec,right hemisphere,0.12821214036353704
+13.0,1.0,m_13_01,2023-07-31 11:13:46,1,baseline_eo,left nfb aai,0.07548262528919963
+13.0,1.0,m_13_01,2023-07-31 11:13:46,1,baseline_eo,right nfb aai,0.09274742528147746
+13.0,1.0,m_13_01,2023-07-31 11:13:46,1,baseline_eo,left hemisphere,0.07297421572848342
+13.0,1.0,m_13_01,2023-07-31 11:13:46,1,baseline_eo,right hemisphere,0.09020662592156224
+13.0,1.0,m_13_01,2023-07-31 11:13:46,1,baseline_ec,left nfb aai,0.05739411292693949
+13.0,1.0,m_13_01,2023-07-31 11:13:46,1,baseline_ec,right nfb aai,0.04111124896814956
+13.0,1.0,m_13_01,2023-07-31 11:13:46,1,baseline_ec,left hemisphere,0.06120593584741062
+13.0,1.0,m_13_01,2023-07-31 11:13:46,1,baseline_ec,right hemisphere,0.04269330608428153
+13.0,2.0,m_13_02,2023-07-31 17:40:01,1,baseline_eo,left nfb aai,0.05086551856093297
+13.0,2.0,m_13_02,2023-07-31 17:40:01,1,baseline_eo,right nfb aai,0.06831513559468494
+13.0,2.0,m_13_02,2023-07-31 17:40:01,1,baseline_eo,left hemisphere,0.05493313538376444
+13.0,2.0,m_13_02,2023-07-31 17:40:01,1,baseline_eo,right hemisphere,0.0709641439373881
+13.0,2.0,m_13_02,2023-07-31 17:40:01,1,baseline_ec,left nfb aai,0.02480289434125064
+13.0,2.0,m_13_02,2023-07-31 17:40:01,1,baseline_ec,right nfb aai,0.022528266536652037
+13.0,2.0,m_13_02,2023-07-31 17:40:01,1,baseline_ec,left hemisphere,0.024624187966590938
+13.0,2.0,m_13_02,2023-07-31 17:40:01,1,baseline_ec,right hemisphere,0.022239214332481043
+14.0,1.0,m_14_01,2023-07-31 15:36:20,1,baseline_eo,left nfb aai,0.044624626329033225
+14.0,1.0,m_14_01,2023-07-31 15:36:20,1,baseline_eo,right nfb aai,0.02464765914252039
+14.0,1.0,m_14_01,2023-07-31 15:36:20,1,baseline_eo,left hemisphere,0.04695671399932367
+14.0,1.0,m_14_01,2023-07-31 15:36:20,1,baseline_eo,right hemisphere,0.02505193637660181
+14.0,1.0,m_14_01,2023-07-31 15:36:20,1,baseline_ec,left nfb aai,0.07943426103111252
+14.0,1.0,m_14_01,2023-07-31 15:36:20,1,baseline_ec,right nfb aai,0.05476019349746752
+14.0,1.0,m_14_01,2023-07-31 15:36:20,1,baseline_ec,left hemisphere,0.08113776320463198
+14.0,1.0,m_14_01,2023-07-31 15:36:20,1,baseline_ec,right hemisphere,0.05697005034845298
+14.0,2.0,m_14_02,2023-07-31 15:29:50,1,baseline_eo,left nfb aai,0.027586757374616615
+14.0,2.0,m_14_02,2023-07-31 15:29:50,1,baseline_eo,right nfb aai,0.023429867900870035
+14.0,2.0,m_14_02,2023-07-31 15:29:50,1,baseline_eo,left hemisphere,0.026701094262348523
+14.0,2.0,m_14_02,2023-07-31 15:29:50,1,baseline_eo,right hemisphere,0.02451543575481758
+14.0,2.0,m_14_02,2023-07-31 15:29:50,1,baseline_ec,left nfb aai,0.09850754565220148
+14.0,2.0,m_14_02,2023-07-31 15:29:50,1,baseline_ec,right nfb aai,0.080280748578249
+14.0,2.0,m_14_02,2023-07-31 15:29:50,1,baseline_ec,left hemisphere,0.09724272139397538
+14.0,2.0,m_14_02,2023-07-31 15:29:50,1,baseline_ec,right hemisphere,0.07467987950317849
+15.0,1.0,m_15_01,2023-07-31 18:30:39,1,baseline_eo,left nfb aai,0.022925095271077122
+15.0,1.0,m_15_01,2023-07-31 18:30:39,1,baseline_eo,right nfb aai,0.028880444525232526
+15.0,1.0,m_15_01,2023-07-31 18:30:39,1,baseline_eo,left hemisphere,0.02702598214390181
+15.0,1.0,m_15_01,2023-07-31 18:30:39,1,baseline_eo,right hemisphere,0.03290399774491716
+15.0,1.0,m_15_01,2023-07-31 18:30:39,1,baseline_ec,left nfb aai,0.04229089511829176
+15.0,1.0,m_15_01,2023-07-31 18:30:39,1,baseline_ec,right nfb aai,0.06138098353230267
+15.0,1.0,m_15_01,2023-07-31 18:30:39,1,baseline_ec,left hemisphere,0.038888950549798795
+15.0,1.0,m_15_01,2023-07-31 18:30:39,1,baseline_ec,right hemisphere,0.05870279198850696
+15.0,2.0,m_15_02,2023-07-31 17:06:37,1,baseline_eo,left nfb aai,0.02284562621177128
+15.0,2.0,m_15_02,2023-07-31 17:06:37,1,baseline_eo,right nfb aai,0.03291043548681413
+15.0,2.0,m_15_02,2023-07-31 17:06:37,1,baseline_eo,left hemisphere,0.024595178438639405
+15.0,2.0,m_15_02,2023-07-31 17:06:37,1,baseline_eo,right hemisphere,0.03400356696221415
+15.0,2.0,m_15_02,2023-07-31 17:06:37,1,baseline_ec,left nfb aai,0.04138297019766393
+15.0,2.0,m_15_02,2023-07-31 17:06:37,1,baseline_ec,right nfb aai,0.05640530129771357
+15.0,2.0,m_15_02,2023-07-31 17:06:37,1,baseline_ec,left hemisphere,0.03936928706003063
+15.0,2.0,m_15_02,2023-07-31 17:06:37,1,baseline_ec,right hemisphere,0.05720255146265477
+16.0,1.0,m_16_01,2023-07-31 11:27:52,1,baseline_eo,left nfb aai,0.06763006711310993
+16.0,1.0,m_16_01,2023-07-31 11:27:52,1,baseline_eo,right nfb aai,0.06652458813867579
+16.0,1.0,m_16_01,2023-07-31 11:27:52,1,baseline_eo,left hemisphere,0.07151319716017414
+16.0,1.0,m_16_01,2023-07-31 11:27:52,1,baseline_eo,right hemisphere,0.06699753838144178
+16.0,1.0,m_16_01,2023-07-31 11:27:52,1,baseline_ec,left nfb aai,0.16680948030386777
+16.0,1.0,m_16_01,2023-07-31 11:27:52,1,baseline_ec,right nfb aai,0.17420939002779168
+16.0,1.0,m_16_01,2023-07-31 11:27:52,1,baseline_ec,left hemisphere,0.16779525517832367
+16.0,1.0,m_16_01,2023-07-31 11:27:52,1,baseline_ec,right hemisphere,0.17198461207365165
+16.0,2.0,m_16_02,2023-07-31 11:11:17,1,baseline_eo,left nfb aai,0.023037541578540748
+16.0,2.0,m_16_02,2023-07-31 11:11:17,1,baseline_eo,right nfb aai,0.028656205296989253
+16.0,2.0,m_16_02,2023-07-31 11:11:17,1,baseline_eo,left hemisphere,0.02507836112541494
+16.0,2.0,m_16_02,2023-07-31 11:11:17,1,baseline_eo,right hemisphere,0.027079972196891493
+16.0,2.0,m_16_02,2023-07-31 11:11:17,1,baseline_ec,left nfb aai,0.10248155914672212
+16.0,2.0,m_16_02,2023-07-31 11:11:17,1,baseline_ec,right nfb aai,0.1614060368844897
+16.0,2.0,m_16_02,2023-07-31 11:11:17,1,baseline_ec,left hemisphere,0.10999298111764212
+16.0,2.0,m_16_02,2023-07-31 11:11:17,1,baseline_ec,right hemisphere,0.16353858919157593
+17.0,1.0,m_17_01,2023-07-31 11:03:23,1,baseline_eo,left nfb aai,0.048468015560483746
+17.0,1.0,m_17_01,2023-07-31 11:03:23,1,baseline_eo,right nfb aai,0.04348712874974651
+17.0,1.0,m_17_01,2023-07-31 11:03:23,1,baseline_eo,left hemisphere,0.04858598909645123
+17.0,1.0,m_17_01,2023-07-31 11:03:23,1,baseline_eo,right hemisphere,0.044805325639082565
+17.0,1.0,m_17_01,2023-07-31 11:03:23,1,baseline_ec,left nfb aai,0.0705470698659661
+17.0,1.0,m_17_01,2023-07-31 11:03:23,1,baseline_ec,right nfb aai,0.07458281188239323
+17.0,1.0,m_17_01,2023-07-31 11:03:23,1,baseline_ec,left hemisphere,0.07760918206369259
+17.0,1.0,m_17_01,2023-07-31 11:03:23,1,baseline_ec,right hemisphere,0.07726417839998646
+17.0,2.0,m_17_02,2023-07-31 11:42:16,1,baseline_eo,left nfb aai,0.048440741377217496
+17.0,2.0,m_17_02,2023-07-31 11:42:16,1,baseline_eo,right nfb aai,0.04266620248621899
+17.0,2.0,m_17_02,2023-07-31 11:42:16,1,baseline_eo,left hemisphere,0.048681109674938015
+17.0,2.0,m_17_02,2023-07-31 11:42:16,1,baseline_eo,right hemisphere,0.04245272537078324
+17.0,2.0,m_17_02,2023-07-31 11:42:16,1,baseline_ec,left nfb aai,0.012068335710502262
+17.0,2.0,m_17_02,2023-07-31 11:42:16,1,baseline_ec,right nfb aai,0.028049893539366228
+17.0,2.0,m_17_02,2023-07-31 11:42:16,1,baseline_ec,left hemisphere,0.015801097116886473
+17.0,2.0,m_17_02,2023-07-31 11:42:16,1,baseline_ec,right hemisphere,0.02808318581434473
+18.0,2.0,m_18_02,2023-07-31 14:31:31,1,baseline_eo,left nfb aai,0.13172012375757083
+18.0,2.0,m_18_02,2023-07-31 14:31:31,1,baseline_eo,right nfb aai,0.11922248170846639
+18.0,2.0,m_18_02,2023-07-31 14:31:31,1,baseline_eo,left hemisphere,0.129997819469937
+18.0,2.0,m_18_02,2023-07-31 14:31:31,1,baseline_eo,right hemisphere,0.12127940170643833
+18.0,2.0,m_18_02,2023-07-31 14:31:31,1,baseline_ec,left nfb aai,0.05267565125123841
+18.0,2.0,m_18_02,2023-07-31 14:31:31,1,baseline_ec,right nfb aai,0.07429883872254373
+18.0,2.0,m_18_02,2023-07-31 14:31:31,1,baseline_ec,left hemisphere,0.05466926416623948
+18.0,2.0,m_18_02,2023-07-31 14:31:31,1,baseline_ec,right hemisphere,0.07380065220484955
+18.0,1.0,m_18_01,2023-07-31 14:19:00,1,baseline_eo,left nfb aai,0.03682813930319513
+18.0,1.0,m_18_01,2023-07-31 14:19:00,1,baseline_eo,right nfb aai,0.04981977963642257
+18.0,1.0,m_18_01,2023-07-31 14:19:00,1,baseline_eo,left hemisphere,0.03664627548241096
+18.0,1.0,m_18_01,2023-07-31 14:19:00,1,baseline_eo,right hemisphere,0.05321659617244445
+18.0,1.0,m_18_01,2023-07-31 14:19:00,1,baseline_ec,left nfb aai,0.038032129254607035
+18.0,1.0,m_18_01,2023-07-31 14:19:00,1,baseline_ec,right nfb aai,0.04052285315895671
+18.0,1.0,m_18_01,2023-07-31 14:19:00,1,baseline_ec,left hemisphere,0.03740965162259533
+18.0,1.0,m_18_01,2023-07-31 14:19:00,1,baseline_ec,right hemisphere,0.03973855122869542
+19.0,2.0,m_19_02,2023-07-31 15:31:50,1,baseline_eo,left nfb aai,0.045533488380447816
+19.0,2.0,m_19_02,2023-07-31 15:31:50,1,baseline_eo,right nfb aai,0.04840238224726593
+19.0,2.0,m_19_02,2023-07-31 15:31:50,1,baseline_eo,left hemisphere,0.051136926572862416
+19.0,2.0,m_19_02,2023-07-31 15:31:50,1,baseline_eo,right hemisphere,0.0525460377651707
+19.0,2.0,m_19_02,2023-07-31 15:31:50,1,baseline_ec,left nfb aai,0.03796937791849542
+19.0,2.0,m_19_02,2023-07-31 15:31:50,1,baseline_ec,right nfb aai,0.021462803102506058
+19.0,2.0,m_19_02,2023-07-31 15:31:50,1,baseline_ec,left hemisphere,0.03842871737918485
+19.0,2.0,m_19_02,2023-07-31 15:31:50,1,baseline_ec,right hemisphere,0.024619079745934528
+19.0,1.0,m_19_01,2023-07-31 11:34:50,1,baseline_eo,left nfb aai,0.04436393361727337
+19.0,1.0,m_19_01,2023-07-31 11:34:50,1,baseline_eo,right nfb aai,0.056519676902134774
+19.0,1.0,m_19_01,2023-07-31 11:34:50,1,baseline_eo,left hemisphere,0.04801614084795253
+19.0,1.0,m_19_01,2023-07-31 11:34:50,1,baseline_eo,right hemisphere,0.05796454106414289
+19.0,1.0,m_19_01,2023-07-31 11:34:50,1,baseline_ec,left nfb aai,0.21437006298182384
+19.0,1.0,m_19_01,2023-07-31 11:34:50,1,baseline_ec,right nfb aai,0.20544540969470648
+19.0,1.0,m_19_01,2023-07-31 11:34:50,1,baseline_ec,left hemisphere,0.21700340222620015
+19.0,1.0,m_19_01,2023-07-31 11:34:50,1,baseline_ec,right hemisphere,0.20758035933044358
+20.0,1.0,m_20_01,2023-07-31 18:26:18,1,baseline_eo,left nfb aai,0.0390260284581491
+20.0,1.0,m_20_01,2023-07-31 18:26:18,1,baseline_eo,right nfb aai,0.03226936274641396
+20.0,1.0,m_20_01,2023-07-31 18:26:18,1,baseline_eo,left hemisphere,0.038053361338932896
+20.0,1.0,m_20_01,2023-07-31 18:26:18,1,baseline_eo,right hemisphere,0.03083813862867565
+20.0,1.0,m_20_01,2023-07-31 18:26:18,1,baseline_ec,left nfb aai,0.1424612975618272
+20.0,1.0,m_20_01,2023-07-31 18:26:18,1,baseline_ec,right nfb aai,0.2085884963485666
+20.0,1.0,m_20_01,2023-07-31 18:26:18,1,baseline_ec,left hemisphere,0.14452563305111268
+20.0,1.0,m_20_01,2023-07-31 18:26:18,1,baseline_ec,right hemisphere,0.21327344661343264
+20.0,2.0,m_20_02,2023-07-31 18:20:59,1,baseline_eo,left nfb aai,0.033657091375004465
+20.0,2.0,m_20_02,2023-07-31 18:20:59,1,baseline_eo,right nfb aai,0.0433511790247763
+20.0,2.0,m_20_02,2023-07-31 18:20:59,1,baseline_eo,left hemisphere,0.035712611198428064
+20.0,2.0,m_20_02,2023-07-31 18:20:59,1,baseline_eo,right hemisphere,0.04335367760219015
+20.0,2.0,m_20_02,2023-07-31 18:20:59,1,baseline_ec,left nfb aai,0.0399788318575781
+20.0,2.0,m_20_02,2023-07-31 18:20:59,1,baseline_ec,right nfb aai,0.04347463720571798
+20.0,2.0,m_20_02,2023-07-31 18:20:59,1,baseline_ec,left hemisphere,0.041839266808808714
+20.0,2.0,m_20_02,2023-07-31 18:20:59,1,baseline_ec,right hemisphere,0.044127545602023685

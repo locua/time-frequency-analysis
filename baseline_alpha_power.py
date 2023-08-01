@@ -123,8 +123,8 @@ def get_avg_power(h5file, subject, session):
     """Return average power for h5 eeg data file.
     """
     regions = {
-        'left central, occipital parietal' : ["P7", "P5", "P3", "P1", "PO7", "PO3", "O1", "CP5", "CP3", "CP1"],
-        'right central, occipital parietal' : ["P2", "P4", "P6", "P8", "PO8", "PO4", "O2", "CP6", "CP4", "CP2"],
+        'left nfb aai':['P7', 'O1', 'P3'],
+        'right nfb aai':['P8', 'O2', 'P4'],
         'left hemisphere':["P7", "P5", "P3", "P1", "PO7", "PO3", "O1"],
         'right hemisphere':["P2", "P4", "P6", "P8", "PO8", "PO4", "O2"]
     }
